@@ -13,6 +13,5 @@ This proposal describes what we need to launch a workflow of the TON Footsteps.
 <!-- What needs to be done -->
 * The list of the TON Footsteps
 * Template of a proposal
-* Instruction: How to propose an idea
-* Instruction: How to discuss and vote for an idea
-* Instruction: How to do an item from the TON Footsteps list
+* Instruction: How to propose a task
+* Instruction: How to complete a task from the TON Footsteps list
