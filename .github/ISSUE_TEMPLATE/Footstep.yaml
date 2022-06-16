@@ -11,13 +11,15 @@ body:
   - type: textarea
     attributes:
       label: "Summary"
+      description: "Short summary of what Footstep is about."
       placeholder: "This proposal describes what we need to launch a workflow of the TON Footsteps."
     validations:
       required: True
   - type: textarea
     attributes:
       label: "Context"
-      placeholder: "* We want to suggest a public list of the projects and/or actions, which can be taken to improve TON Ecosystem."
+      description: "Provide some information required to understand why this Footstep needs to be taken."
+      placeholder: "We want to suggest a public list of the projects and/or actions, which can be taken to improve TON Ecosystem. This is required to attract independent builders to TON."
     validations:
       required: False
   - type: textarea
@@ -25,25 +27,21 @@ body:
       label: "Goals"
       placeholder: |
         * Provide a workflow to improve the TON ecosystem (articles, docs, tutorials, tools, etc.) by the community
-        * Make the proposal process simple, efficient and transparent
     validations:
       required: True
   - type: textarea
     attributes:
       label: "Deliverables"
+      description: 'List deliverables which are assumed by the Footstep.'
       placeholder: |
         * The list of the TON Footsteps
-        * Template of a proposal
-        * Instruction: How to propose a task
-        * Instruction: How to complete a task from the TON Footsteps list
     validations:
       required: True
   - type: textarea
     attributes:
       label: "Definition of Done"
-      placeholder: |
-        [ ] Repository created
-        [ ] Text files submitted
+      placeholder: "
+        [ ] Repository created"
     validations:
       required: True
   - type: textarea
@@ -51,6 +49,5 @@ body:
       label: "Reward"
       placeholder: |
         * Standard TON Footstep NFT
-        * Honor
     validations:
       required: True

@@ -4,8 +4,8 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 
 ### How to propose something to the list?
 **Ideation Stage**
-1. Open an [issue](https://github.com/tsivarev/ton-footsteps/issues/new). Name it using the name of your proposal
-2. Use [ton-footstep-issue-template.md](ton-footstep-issue-template.md) to explain a goal of the proposal. Use the [#3](https://github.com/tsivarev/ton-footsteps/issues/3) issue like an example
+1. Open an [Footstep issue](https://github.com/tsivarev/ton-footsteps/issues/new?assignees=&labels=footstep&template=Footstep.yaml). Name it using the name of your proposal
+2. Fill the issue form or use [ton-footstep-issue-template.md](ton-footstep-issue-template.md) as a reference to explain a goal of the proposal. Use the [#3](https://github.com/tsivarev/ton-footsteps/issues/3) issue like an example.
 
 **Review Stage**
 1. The community can comment, discuss and suggest changes to the proposal
