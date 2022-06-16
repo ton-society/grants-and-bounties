@@ -1,0 +1,56 @@
+name: Footstep
+description: Suggest a new TON Footstep
+labels: 'footstep'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for stepping up to improve TON Ecosystem.
+
+        Create issue with this template to suggest a new Footstep.
+  - type: textarea
+    attributes:
+      label: "Summary"
+      placeholder: "This proposal describes what we need to launch a workflow of the TON Footsteps."
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Context"
+      placeholder: "* We want to suggest a public list of the projects and/or actions, which can be taken to improve TON Ecosystem."
+    validations:
+      required: False
+  - type: textarea
+    attributes:
+      label: "Goals"
+      placeholder: |
+        * Provide a workflow to improve the TON ecosystem (articles, docs, tutorials, tools, etc.) by the community
+        * Make the proposal process simple, efficient and transparent
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Deliverables"
+      placeholder: |
+        * The list of the TON Footsteps
+        * Template of a proposal
+        * Instruction: How to propose a task
+        * Instruction: How to complete a task from the TON Footsteps list
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Definition of Done"
+      placeholder: |
+        [ ] Repository created
+        [ ] Text files submitted
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Reward"
+      placeholder: |
+        * Standard TON Footstep NFT
+        * Honor
+    validations:
+      required: True
