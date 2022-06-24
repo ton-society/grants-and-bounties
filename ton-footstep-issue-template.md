@@ -22,8 +22,9 @@ This proposal describes what we need to launch a workflow of the TON Footsteps.
 
 ## Definition of Done
 <!-- Acceptance criteria, which have to be met to consider the footstep complete -->
-[] Repository created
-[] Text files submitted
+[ ] Repository created
+
+[ ] Text files submitted
 
 ## Reward
 <!-- Suggested reward -->
