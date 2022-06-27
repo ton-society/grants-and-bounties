@@ -13,6 +13,7 @@ NFT should be minted to the TON address provided by the person who completed the
 Until SBT standard is developed and accepted, TON Foostep is going to be a NFT.
 
 Title: TON Footstep #[number of the referenced issue]
+
 Description: TON Footsteps are steps taken by TON Community on a path improving The Open Network.
 
 
