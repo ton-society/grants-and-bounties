@@ -26,6 +26,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 |      |      |     |
 
 ### The TON Footsteps committee
-* [ton-society](https://github.com/ton-society)
+* [tonkongz](https://github.com/tonkongz)
+* [tsivarev](https://github.com/tsivarev)
 * [hiyorimi](https://github.com/hiyorimi)
 * [aplotvinov](https://github.com/aplotvinov)
