@@ -23,7 +23,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 ### Hall of Fame
 | Name | Task | Link |
 |------|------|------|
-|      |      |      |
+| Dan Volkov | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
