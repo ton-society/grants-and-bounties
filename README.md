@@ -21,9 +21,9 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 7. Wait for the committee to review your pull request
 
 ### Hall of Fame
-| Name | Task | PR  |
-|------|------|-----|
-|      |      |     |
+| Name | Task | Link |
+|------|------|------|
+|      |      |      |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
