@@ -24,6 +24,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | Name | Task | Link |
 |------|------|------|
 | [Revuza](https://github.com/LevZed) & [Gusarich](https://github.com/Gusarich)     | Examples: How to recieve payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
+| Dan Volkov | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
