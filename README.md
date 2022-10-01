@@ -30,6 +30,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Roman](https://github.com/swiftadviser) | User-friendly TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/31) |
 | [Nikita](https://github.com/sobolevn) | `highligh.js` integration | [Issue](https://github.com/ton-society/ton-footsteps/issues/42)
 | [Purple](https://github.com/purp1le) | NFT Raffle contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/37)
+| [menschee](https://github.com/menschee) | Article: How does the fee count? | [Issue](https://github.com/ton-society/ton-footsteps/issues/9)
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
