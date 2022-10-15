@@ -24,13 +24,16 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | Name | Task | Link |
 |------|------|------|
 | [Revuza](https://github.com/LevZed) & [Gusarich](https://github.com/Gusarich)     | Examples: How to recieve payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
-| Dan Volkov | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
+| [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 | [Oleg Baranov](https://github.com/xssnick) | Soulbound NFT's | [Issue](https://github.com/ton-society/ton-footsteps/issues/23) |
 | [Oleg Baranov](https://github.com/xssnick) | NFT Swap Contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/32) |
 | [Roman](https://github.com/swiftadviser) | User-friendly TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/31) |
-| [Nikita](https://github.com/sobolevn) | `highligh.js` integration | [Issue](https://github.com/ton-society/ton-footsteps/issues/42)
-| [Purple](https://github.com/purp1le) | NFT Raffle contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/37)
-| [menschee](https://github.com/menschee) | Article: How does the fee count? | [Issue](https://github.com/ton-society/ton-footsteps/issues/9)
+| [Nikita](https://github.com/sobolevn) | `highligh.js` integration | [Issue](https://github.com/ton-society/ton-footsteps/issues/42) |
+| [Purple](https://github.com/purp1le) | NFT Raffle contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/37) |
+| [Dan Volkov](https://github.com/dvlkv) | FunC, Fift and TL-b lexers for pygments | [Issue](https://github.com/ton-society/ton-footsteps/issues/40) |
+| [Nikita](https://github.com/sobolevn) | Fift syntax highlight for `highlight.js` | [Issue](https://github.com/ton-society/ton-footsteps/issues/45) |
+| [Nikita](https://github.com/sobolevn) | TL-B syntax highlight for `highlight.js` | [Issue](https://github.com/ton-society/ton-footsteps/issues/49) |
+| [menschee](https://github.com/menschee) | Article: How does the fee count? | [Issue](https://github.com/ton-society/ton-footsteps/issues/9) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
