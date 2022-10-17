@@ -34,6 +34,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Nikita](https://github.com/sobolevn) | Fift syntax highlight for `highlight.js` | [Issue](https://github.com/ton-society/ton-footsteps/issues/45) |
 | [Nikita](https://github.com/sobolevn) | TL-B syntax highlight for `highlight.js` | [Issue](https://github.com/ton-society/ton-footsteps/issues/49) |
 | [menschee](https://github.com/menschee) | Article: How does the fee count? | [Issue](https://github.com/ton-society/ton-footsteps/issues/9) |
+| [Nikita](https://github.com/sobolevn) | Adds syntax highlighting of Tlb, Fift, and FunC to `prisma.js` | [Issue](https://github.com/ton-society/ton-footsteps/issues/53) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
