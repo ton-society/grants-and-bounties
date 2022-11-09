@@ -41,6 +41,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Coalus](https://github.com/coalus) | Examples: How to receive payments in a Telegram bot using NodeJS | [Issue](https://github.com/ton-society/ton-footsteps/issues/58) | 
 | [Nikita](https://github.com/sobolevn) | Adds peg parser for Tlb language | [Issue](https://github.com/ton-society/ton-footsteps/issues/59) |
 | [Gusarich](https://github.com/Gusarich) | Cover "Wallet Contracts" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/63) |
+| [Slava](https://github.com/delovoyhomie) | Tutorials: Mint a Fungible Token (Jetton) | [Issue](https://github.com/ton-society/ton-footsteps/issues/66) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
