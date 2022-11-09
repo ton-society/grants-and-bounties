@@ -40,6 +40,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Raven](https://github.com/anomaly-guard) | Tutorials: How to create (mint) own NFT | [Issue](https://github.com/ton-society/ton-footsteps/issues/7) |
 | [Coalus](https://github.com/coalus) | Examples: How to receive payments in a Telegram bot using NodeJS | [Issue](https://github.com/ton-society/ton-footsteps/issues/58) | 
 | [Nikita](https://github.com/sobolevn) | Adds peg parser for Tlb language | [Issue](https://github.com/ton-society/ton-footsteps/issues/59) |
+| [Gusarich](https://github.com/Gusarich) | Cover "Wallet Contracts" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/63) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
