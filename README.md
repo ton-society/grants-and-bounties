@@ -42,6 +42,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Nikita](https://github.com/sobolevn) | Adds peg parser for Tlb language | [Issue](https://github.com/ton-society/ton-footsteps/issues/59) |
 | [Gusarich](https://github.com/Gusarich) | Cover "Wallet Contracts" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/63) |
 | [Slava](https://github.com/delovoyhomie) | Tutorials: Mint a Fungible Token (Jetton) | [Issue](https://github.com/ton-society/ton-footsteps/issues/66) |
+| [AndreyBur](https://github.com/AndreyBur) | Tutorial: How to run TON Site | [Issue](https://github.com/ton-society/ton-footsteps/issues/74) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
