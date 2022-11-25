@@ -23,7 +23,6 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 ### Hall of Fame
 | Name | Task | Link |
 |------|------|------|
-| [Vadim Volodin](https://github.com/PolyProgrammist/) | Add toncoin to trust wallet assets | [Issue] (https://github.com/ton-society/ton-footsteps/issues/56)     |
 | [Revuza](https://github.com/LevZed) & [Gusarich](https://github.com/Gusarich)     | Examples: How to recieve payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
 | [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 | [Oleg Baranov](https://github.com/xssnick) | Soulbound NFT's | [Issue](https://github.com/ton-society/ton-footsteps/issues/23) |
@@ -45,6 +44,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Slava](https://github.com/delovoyhomie) | Tutorials: Mint a Fungible Token (Jetton) | [Issue](https://github.com/ton-society/ton-footsteps/issues/66) |
 | [AndreyBur](https://github.com/AndreyBur) | Tutorial: How to run TON Site | [Issue](https://github.com/ton-society/ton-footsteps/issues/74) |
 | [Gusarich](https://github.com/Gusarich) | Cover "How to open any TON Site" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/75) |
+| [Vadim Volodin](https://github.com/PolyProgrammist/) | Add toncoin to trust wallet assets | [Issue] (https://github.com/ton-society/ton-footsteps/issues/56)     |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
