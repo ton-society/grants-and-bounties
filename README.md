@@ -44,6 +44,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Slava](https://github.com/delovoyhomie) | Tutorials: Mint a Fungible Token (Jetton) | [Issue](https://github.com/ton-society/ton-footsteps/issues/66) |
 | [AndreyBur](https://github.com/AndreyBur) | Tutorial: How to run TON Site | [Issue](https://github.com/ton-society/ton-footsteps/issues/74) |
 | [Gusarich](https://github.com/Gusarich) | Cover "How to open any TON Site" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/75) |
+| [Dan Volkov](https://github.com/dvlkv) | NFT Sales for Jettons contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/67) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
