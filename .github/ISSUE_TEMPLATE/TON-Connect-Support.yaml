@@ -30,7 +30,7 @@ body:
       placeholder: ex. https://t.me/toncoin/399
     validations:
       required: True
-  - type: textarea
+  - type: input
     attributes:
       label: "Amount"
       placeholder: |
