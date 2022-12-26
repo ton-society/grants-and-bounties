@@ -48,6 +48,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Vadim Volodin](https://github.com/PolyProgrammist/) | Add toncoin to trust wallet assets | [Issue](https://github.com/ton-society/ton-footsteps/issues/56) |
 | [Miandic](https://github.com/Miandic) | Add examples in TON cookbook | [Issue](https://github.com/ton-society/ton-footsteps/issues/10) |
 | [Nick Nekilov](https://github.com/NickNekilov) | Develop a universally adopted wrapped Toncoin (wTON) | [Issue](https://github.com/ton-society/ton-footsteps/issues/64) |
+| [Slava](https://github.com/delovoyhomie) | Articles about "Toncli" and "Ton Storage" | [Issue](https://github.com/ton-society/ton-footsteps/issues/103) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
