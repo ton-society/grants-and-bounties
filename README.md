@@ -50,7 +50,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Nick Nekilov](https://github.com/NickNekilov) | Develop a universally adopted wrapped Toncoin (wTON) | [Issue](https://github.com/ton-society/ton-footsteps/issues/64) |
 | [Slava](https://github.com/delovoyhomie) | Articles about "Toncli" and "Ton Storage" | [Issue](https://github.com/ton-society/ton-footsteps/issues/103) |
 | [Shayan Shojaei](https://github.com/shayan-shojaei) | General TON Stats Website | [Issue](https://github.com/ton-society/ton-footsteps/issues/11) |
-| [ProgramCrafter](https://github.com/ProgramCrafter) | Tutorial: TVM assembly, Fift and the difference | [Issue](https://github.com/ton-society/ton-footsteps/issues/110) |
+| [ProgramCrafter](https://github.com/ProgramCrafter) | Articles: TVM assembly, Fift and the difference | [Issue](https://github.com/ton-society/ton-footsteps/issues/110) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
