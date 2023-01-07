@@ -48,7 +48,6 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Vadim Volodin](https://github.com/PolyProgrammist/) | Add toncoin to trust wallet assets | [Issue](https://github.com/ton-society/ton-footsteps/issues/56) |
 | [Taras Pustovoy](https://github.com/tvpustovoy/) | Creating a massive open online course "Blockchain intro with examples on the TON ecosystem". Step 1: Course Concept and Learning Outcomes | [Issue](https://github.com/ton-society/ton-footsteps/issues/83) |
 
-
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
 * [tsivarev](https://github.com/tsivarev)
