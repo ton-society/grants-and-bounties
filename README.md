@@ -52,7 +52,6 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Shayan Shojaei](https://github.com/shayan-shojaei) | General TON Stats Website | [Issue](https://github.com/ton-society/ton-footsteps/issues/11) |
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Articles: TVM assembly, Fift and the difference | [Issue](https://github.com/ton-society/ton-footsteps/issues/110) |
 | [Gusarich](https://github.com/Gusarich) | "Message Delivery Guarantees" Article, improvements and fixes in docs | [Issue](https://github.com/ton-society/ton-footsteps/issues/112) |
-| [Slava](https://github.com/delovoyhomie) | Telegram Bot for the TON Developer Community | [Issue](https://github.com/ton-society/ton-footsteps/issues/116) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
