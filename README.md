@@ -4,8 +4,8 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 
 ### How to propose something to the list?
 **Ideation Stage**
-1. Open an [Footstep issue](https://github.com/ton-society/ton-footsteps/issues/new?assignees=&labels=footstep&template=Footstep.yaml). Name it using the name of your proposal
-2. Fill the issue form or use [ton-footstep-issue-template.md](ton-footstep-issue-template.md) as a reference to explain a goal of the proposal. Use the [#3](https://github.com/ton-society/ton-footsteps/issues/3) issue like an example.
+1. Open a [Footstep issue](https://github.com/ton-society/ton-footsteps/issues/new?assignees=&labels=footstep&template=Footstep.yaml). Name it using the name of your proposal
+2. Fill the issue form or use [ton-footstep-issue-template.md](ton-footstep-issue-template.md) as a reference to explain the goal of the proposal. Use the [#3](https://github.com/ton-society/ton-footsteps/issues/3) issue as an example.
 
 **Review Stage**
 1. The community can comment, discuss and suggest changes to the proposal
@@ -23,7 +23,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 ### Hall of Fame
 | Name | Task | Link |
 |------|------|------|
-| [Revuza](https://github.com/LevZed) & [Gusarich](https://github.com/Gusarich)     | Examples: How to recieve payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
+| [Revuza](https://github.com/LevZed) & [Gusarich](https://github.com/Gusarich)     | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
 | [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 | [Oleg Baranov](https://github.com/xssnick) | Soulbound NFT's | [Issue](https://github.com/ton-society/ton-footsteps/issues/23) |
 | [Oleg Baranov](https://github.com/xssnick) | NFT Swap Contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/32) |
