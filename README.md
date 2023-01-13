@@ -53,6 +53,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Articles: TVM assembly, Fift and the difference | [Issue](https://github.com/ton-society/ton-footsteps/issues/110) |
 | [Gusarich](https://github.com/Gusarich) | "Message Delivery Guarantees" Article, improvements and fixes in docs | [Issue](https://github.com/ton-society/ton-footsteps/issues/112) |
 | [Slava](https://github.com/delovoyhomie) | Telegram Bot for the TON Developer Community | [Issue](https://github.com/ton-society/ton-footsteps/issues/116) |
+| [Vadim Volodin](https://github.com/PolyProgrammist/), [Vyacheslav Bushev](https://github.com/stspbu) | Add toncoin to trust wallet core | [Issue](https://github.com/ton-society/ton-footsteps/issues/81) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
