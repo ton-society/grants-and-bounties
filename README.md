@@ -54,6 +54,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich) | "Message Delivery Guarantees" Article, improvements and fixes in docs | [Issue](https://github.com/ton-society/ton-footsteps/issues/112) |
 | [Slava](https://github.com/delovoyhomie) | Telegram Bot for the TON Developer Community | [Issue](https://github.com/ton-society/ton-footsteps/issues/116) |
 | [Vadim Volodin](https://github.com/PolyProgrammist/), [Viacheslav Bushev](https://github.com/stspbu) | Add toncoin to trust wallet core | [Issue](https://github.com/ton-society/ton-footsteps/issues/81) |
+| [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Generation of block random seed | [Issue](https://github.com/ton-society/ton-footsteps/issues/124) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
