@@ -56,6 +56,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Vadim Volodin](https://github.com/PolyProgrammist/), [Viacheslav Bushev](https://github.com/stspbu) | Add toncoin to trust wallet core | [Issue](https://github.com/ton-society/ton-footsteps/issues/81) |
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Integration manual for TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/123) |
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Generation of block random seed | [Issue](https://github.com/ton-society/ton-footsteps/issues/124) |
+| [Gusarich](https://github.com/Gusarich) | Article: Random number generation in smart contracts | [Issue](https://github.com/ton-society/ton-footsteps/issues/114) |
 
 
 ### The TON Footsteps committee
