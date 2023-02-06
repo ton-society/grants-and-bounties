@@ -57,6 +57,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Integration manual for TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/123) |
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Generation of block random seed | [Issue](https://github.com/ton-society/ton-footsteps/issues/124) |
 | [Gusarich](https://github.com/Gusarich) | Article: Random number generation in smart contracts | [Issue](https://github.com/ton-society/ton-footsteps/issues/114) |
+| [Nikita Kuznetsov](https://github.com/KuznetsovNikita) | Development TON Connect 2.0 in OpenMask | [Issue](https://github.com/ton-society/ton-footsteps/issues/107) |
 
 
 ### The TON Footsteps committee
