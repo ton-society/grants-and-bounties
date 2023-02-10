@@ -59,8 +59,9 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich) | Article: Random number generation in smart contracts | [Issue](https://github.com/ton-society/ton-footsteps/issues/114) |
 | [Nikita Kuznetsov](https://github.com/KuznetsovNikita) | Development TON Connect 2.0 in OpenMask | [Issue](https://github.com/ton-society/ton-footsteps/issues/107) |
 | [AlexG](https://github.com/reveloper) | TACT lang documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/105)|
+| [Oleg Baranov](https://github.com/xssnick) | English Translation of Articles of TON Deep Doc | [Issue](https://github.com/ton-society/ton-footsteps/issues/128)|
 
-
+ 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
 * [tsivarev](https://github.com/tsivarev)
