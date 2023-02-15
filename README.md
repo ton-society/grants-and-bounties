@@ -46,7 +46,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich) | Cover "How to open any TON Site" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/75) |
 | [Dan Volkov](https://github.com/dvlkv) | NFT Sales for Jettons contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/67) |
 | [Vadim Volodin](https://github.com/PolyProgrammist/) | Add toncoin to trust wallet assets | [Issue](https://github.com/ton-society/ton-footsteps/issues/56) |
-| [Miandic](https://github.com/Miandic), [Gusarich](https://github.com/Gusarich), [Andrew Grekov](https://github.com/thekiba), [Coalus](https://github.com/coalus), [Spite Moriarty](https://github.com/aSpite) | TON Cookbook | [Issue](https://github.com/ton-society/ton-footsteps/issues/10) |
+| [Miandic](https://github.com/Miandic), [Gusarich](https://github.com/Gusarich), [Tashonov](https://github.com/miroslav-tashonov), [Andrew Grekov](https://github.com/thekiba), [Coalus](https://github.com/coalus), [Spite Moriarty](https://github.com/aSpite) | TON Cookbook | [Issue](https://github.com/ton-society/ton-footsteps/issues/10) |
 | [Nick Nekilov](https://github.com/NickNekilov) | Develop a universally adopted wrapped Toncoin (wTON) | [Issue](https://github.com/ton-society/ton-footsteps/issues/64) |
 | [Slava](https://github.com/delovoyhomie) | Articles about "Toncli" and "Ton Storage" | [Issue](https://github.com/ton-society/ton-footsteps/issues/103) |
 | [Shayan Shojaei](https://github.com/shayan-shojaei) | General TON Stats Website | [Issue](https://github.com/ton-society/ton-footsteps/issues/11) |
