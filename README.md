@@ -66,3 +66,5 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 * [tsivarev](https://github.com/tsivarev)
 * [hiyorimi](https://github.com/hiyorimi)
 * [aplotvinov](https://github.com/aplotvinov)
+* [Slava](https://github.com/delovoyhomie)
+* [Gusarich](https://github.com/Gusarich)
