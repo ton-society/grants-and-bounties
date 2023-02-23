@@ -41,7 +41,7 @@ body:
     attributes:
       label: "Definition of Done"
       placeholder: "
-        [ ] Repository created"
+        - [ ] Repository created"
     validations:
       required: True
   - type: textarea
