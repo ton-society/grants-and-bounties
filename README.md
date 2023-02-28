@@ -59,10 +59,9 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich) | Article: Random number generation in smart contracts | [Issue](https://github.com/ton-society/ton-footsteps/issues/114) |
 | [Nikita Kuznetsov](https://github.com/KuznetsovNikita) | Development TON Connect 2.0 in OpenMask | [Issue](https://github.com/ton-society/ton-footsteps/issues/107) |
 | [AlexG](https://github.com/reveloper) | TACT lang documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/105)|
-| [Mark](https://github.com/KIMCAT33) | Tonic Wallet : First Multi-Accounts based TON Extension Wallet supporting TC 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/155)|
 | [Oleg Baranov](https://github.com/xssnick) | English Translation of Articles of TON Deep Doc | [Issue](https://github.com/ton-society/ton-footsteps/issues/128)|
 | [TonSafe](https://github.com/tonsafe) | Development TON Connect 2.0 in TonSafe | [Issue](https://github.com/ton-society/ton-footsteps/issues/140)|
-
+| [Mark](https://github.com/KIMCAT33) | Tonic Wallet : First Multi-Accounts based TON Extension Wallet supporting TC 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/155)|
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
