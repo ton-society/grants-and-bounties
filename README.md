@@ -63,6 +63,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [TonSafe](https://github.com/tonsafe) | Development TON Connect 2.0 in TonSafe | [Issue](https://github.com/ton-society/ton-footsteps/issues/140)|
 | [Mark](https://github.com/KIMCAT33) | Tonic Wallet : First Multi-Accounts based TON Extension Wallet supporting TC 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/155)|
 | [Gusarich](https://github.com/Gusarich), [Miandic](https://github.com/Miandic) | Multisig wallets support for `ton.js` and guide | [Issue](https://github.com/ton-society/ton-footsteps/issues/86) |
+| [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Sending messages with TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/150) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
