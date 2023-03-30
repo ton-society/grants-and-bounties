@@ -67,6 +67,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Andrey Sorokin](https://github.com/sorokin0andrey) | Development TON Connect 2.0 in Tonkeeper | [Issue](https://github.com/ton-society/ton-footsteps/issues/161)|
 | [mytonwalletorg](https://github.com/mytonwalletorg) | Development TON Connect 2.0 in MyTonWallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/149) |
 | [Spite Moriarty](https://github.com/aSpite) | Tutorial: How to work with smart wallet contracts | [Issue](https://github.com/ton-society/ton-footsteps/issues/141)
+| [Vladislav Zhovnitsky](https://github.com/vzhovnitsky) | Development TON Connect 2.0 in Tonhub | [Issue](https://github.com/ton-society/ton-footsteps/issues/108) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
