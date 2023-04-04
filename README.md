@@ -69,6 +69,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Spite Moriarty](https://github.com/aSpite) | Tutorial: How to work with smart wallet contracts | [Issue](https://github.com/ton-society/ton-footsteps/issues/141)
 | [Vladislav Zhovnitsky](https://github.com/vzhovnitsky) | Development TON Connect 2.0 in Tonhub | [Issue](https://github.com/ton-society/ton-footsteps/issues/108) |
 | [krau5](https://github.com/krau5) | TVM Instruction Search React Component for TON Docs | [Issue](https://github.com/ton-society/ton-footsteps/issues/175) |
+| [Sergey Andreev](https://github.com/siandreev) | Example of a telegram bot that uses TonConnect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/176) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
