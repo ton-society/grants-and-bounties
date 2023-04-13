@@ -23,7 +23,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 ### Hall of Fame
 | Name | Task | Link |
 |------|------|------|
-| [Revuza](https://github.com/LevZed) & [Gusarich](https://github.com/Gusarich)     | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
+| [Revuza](https://github.com/LevZed) & [Gusarich](https://github.com/Gusarich)   | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
 | [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 | [Oleg Baranov](https://github.com/xssnick) | Soulbound NFT's | [Issue](https://github.com/ton-society/ton-footsteps/issues/23) |
 | [Oleg Baranov](https://github.com/xssnick) | NFT Swap Contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/32) |
@@ -70,7 +70,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Vladislav Zhovnitsky](https://github.com/vzhovnitsky) | Development TON Connect 2.0 in Tonhub | [Issue](https://github.com/ton-society/ton-footsteps/issues/108) |
 | [krau5](https://github.com/krau5) | TVM Instruction Search React Component for TON Docs | [Issue](https://github.com/ton-society/ton-footsteps/issues/175) |
 | [Sergey Andreev](https://github.com/siandreev) | Example of a telegram bot that uses TonConnect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/176) |
-
+| [Aleksandr Brekhin](https://github.com/MrKamenAdmin) | Integrating Kotlin SDK with Java Projects | [Issue](https://github.com/ton-society/ton-footsteps/issues/172) |
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
 * [tsivarev](https://github.com/tsivarev)
