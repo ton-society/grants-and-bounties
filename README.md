@@ -15,10 +15,8 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 1. Find a suitable task from the [list](https://github.com/ton-society/ton-footsteps/issues?q=is%3Aopen+is%3Aissue+label%3Aapproved) of the approved issues
 2. Propose your plan or just ask to assign issue to yourself
 3. Finish the task and verify that all task deliverables are completed
-4. Open a pull request. Name it using the name of the task and put your name in the [Hall of Fame](https://github.com/ton-society/ton-footsteps#hall-of-fame)
-5. Leave a comment to link the pull request to the issue. For example: `PR for #3`
-6. Leave a comment with information about your ton wallet address and results achieved
-7. Wait for the committee to review your pull request
+4. Leave a comment with information about your TON wallet address and results achieved
+5. Wait for the committee to review your work
 
 ### Hall of Fame
 | Name | Task | Link |
