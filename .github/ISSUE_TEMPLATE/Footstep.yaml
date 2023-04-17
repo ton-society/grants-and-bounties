@@ -49,5 +49,13 @@ body:
       label: "Reward"
       placeholder: |
         * Standard TON Footstep NFT
+        * TBD
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Deadline"
+      placeholder: |
+        * TBD
     validations:
       required: True
