@@ -56,6 +56,6 @@ body:
     attributes:
       label: "Deadline"
       placeholder: |
-        * TBD
+        TBD
     validations:
       required: True
