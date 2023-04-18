@@ -70,6 +70,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Sergey Andreev](https://github.com/siandreev) | Example of a telegram bot that uses TonConnect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/176) |
 | [Aleksandr Brekhin](https://github.com/MrKamenAdmin) | Integrating Kotlin SDK with Java Projects | [Issue](https://github.com/ton-society/ton-footsteps/issues/172) |
 | [Ivan Bridge](https://github.com/deivana) | Development TON Connect 2.0 in DeWallet web wallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/193) |
+| [TONFLOW](https://github.com/tonflow) | Development TON Connect 2.0 in TONFLOW web wallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/186) |
 
 ### The TON Footsteps committee
 * [tonkongz](https://github.com/tonkongz)
