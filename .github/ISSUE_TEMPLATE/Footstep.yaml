@@ -54,7 +54,7 @@ body:
       required: True
   - type: textarea
     attributes:
-      label: "Deadline"
+      label: "Oriental Release Date"
       placeholder: |
         TBD
     validations:
