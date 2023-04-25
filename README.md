@@ -73,7 +73,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [TONFLOW](https://github.com/tonflow) | Development TON Connect 2.0 in TONFLOW web wallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/186) |
 
 ### TON Footsteps committee
-* [Anthony Tsivarev](https://github.com/tsivarev) - Head of TON Footsteps 
+* [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
 * [Kirill Malev](https://github.com/hiyorimi) - Managing director of TON Footsteps
 * [Slava Yakimenko](https://github.com/delovoyhomie) - Maintainer of TON Footsteps
 * [Daniil Sedov](https://github.com/Gusarich) - Main contributor of TON Footsteps
