@@ -71,6 +71,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Aleksandr Brekhin](https://github.com/MrKamenAdmin) | Integrating Kotlin SDK with Java Projects | [Issue](https://github.com/ton-society/ton-footsteps/issues/172) |
 | [Ivan Bridge](https://github.com/deivana) | Development TON Connect 2.0 in DeWallet web wallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/193) |
 | [TONFLOW](https://github.com/tonflow) | Development TON Connect 2.0 in TONFLOW web wallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/186) |
+| [Aleksey Papirovskiy](https://github.com/Apapirovskiy) | Rust SDK for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/182) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
