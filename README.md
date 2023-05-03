@@ -12,20 +12,20 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 1. The community can comment, discuss and suggest changes to the proposal.
 2. The TON Footsteps [committee](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
 3. After receipt of the label `approved`, footstep is approved for implementation, but has not yet been assigned to the performer.
-4. After discussing the amount of **reward**, **oriental release date** and the assignment of the performer (assigned), you can start performing footstep.
+4. After discussing the amount of **reward**, **oriental release date** and the assignment of the performer(s), they can start performing footstep.
 
 **Completion stage**
-1. Finish the task and verify that all task deliverables are completed.
-2. Leave a comment with the next information:
-* Your TON wallet address;
-* Results achieved;
-* Name in the [Hall of Fame](https://github.com/ton-society/ton-footsteps#hall-of-fame).
-3. Wait for the [committee](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) to review your work.
+1. Footstep performer finishes the task and verifies that all deliverables are completed.
+2. Performer leaves a comment in the issue with following information:
+* TON wallet address for reward
+* Results achieved
+* Name for the [Hall of Fame](https://github.com/ton-society/ton-footsteps#hall-of-fame)
+3. The [committee](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) will review the work and distribute rewards.
 
 ### How to complete something from the list?
 1. Find a suitable task from the [list](https://github.com/ton-society/ton-footsteps/issues?q=is%3Aopen+is%3Aissue+label%3Aapproved) of the approved issues.
-2. Propose your plan or just ask to assign issue to yourself.
-3. Follow steps 3, 4 in **[Review stage](https://github.com/ton-society/ton-footsteps#how-to-propose-something-to-the-list)** just above.
+2. Propose your plan or just ask to assign yourself to the issue.
+3. Follow next steps of **[Review and Completion stages](https://github.com/ton-society/ton-footsteps#how-to-propose-something-to-the-list)**.
 
 **It's worth pay attention**
 * Please don't forget to do interim progress reports in the comments.
