@@ -19,7 +19,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 2. Leave a comment with the next information:
 * Your TON wallet address;
 * Results achieved;
-* Desired name in the [Hall of Fame](https://github.com/ton-society/ton-footsteps#hall-of-fame).
+* Name in the [Hall of Fame](https://github.com/ton-society/ton-footsteps#hall-of-fame).
 3. Wait for the [committee](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) to review your work.
 
 ### How to complete something from the list?
