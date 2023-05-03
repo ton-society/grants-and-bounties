@@ -4,19 +4,26 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 
 ### How to propose something to the list?
 **Ideation Stage**
-1. Open a [Footstep issue](https://github.com/ton-society/ton-footsteps/issues/new?assignees=&labels=footstep&template=Footstep.yaml). Name it using the name of your proposal
-2. Fill the issue form or use [ton-footstep-issue-template.md](ton-footstep-issue-template.md) as a reference to explain the goal of the proposal. Use the [#3](https://github.com/ton-society/ton-footsteps/issues/3) issue as an example.
+1. Open a [Footstep issue](https://github.com/ton-society/ton-footsteps/issues/new?assignees=&labels=footstep&template=Footstep.yaml). Name it using the name of your proposal.
+2. Fill the issue form or use [ton-footstep-issue-template.md](ton-footstep-issue-template.md) as a reference to explain the goal of the proposal. Use the [#217](https://github.com/ton-society/ton-footsteps/issues/217) issue as an example.
+3. Be sure to look at the [instructions for quickly creating footstep using ChatGPT](https://t.me/thetontech/47).
 
 **Review Stage**
-1. The community can comment, discuss and suggest changes to the proposal
-2. The TON Footsteps [committee](https://github.com/ton-society/ton-footsteps#the-ton-footsteps-committee) regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it
+1. The community can comment, discuss and suggest changes to the proposal.
+2. The TON Footsteps [committee](https://github.com/ton-society/ton-footsteps#the-ton-footsteps-committee) regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
+3. After receipt of the label `approved`, footstep is approved for implementation, but has not yet been assigned to the performer.
+4. After discussing the amount of **reward**, **oriental release date** and the assignment of the performer (assigned), you can start performing footstep.
 
 ### How to complete something from the list?
-1. Find a suitable task from the [list](https://github.com/ton-society/ton-footsteps/issues?q=is%3Aopen+is%3Aissue+label%3Aapproved) of the approved issues
-2. Propose your plan or just ask to assign issue to yourself
-3. Finish the task and verify that all task deliverables are completed
-4. Leave a comment with information about your TON wallet address and results achieved
-5. Wait for the committee to review your work
+1. Find a suitable task from the [list](https://github.com/ton-society/ton-footsteps/issues?q=is%3Aopen+is%3Aissue+label%3Aapproved) of the approved issues.
+2. Propose your plan or just ask to assign issue to yourself.
+3. Finish the task and verify that all task deliverables are completed.
+4. Leave a comment with information about your TON wallet address and results achieved.
+5. Wait for the [committee](https://github.com/ton-society/ton-footsteps#the-ton-footsteps-committee) to review your work.
+
+**It's worth pay attention**
+* Please don't forget to do interim progress reports in the comments.
+* As you are done, mark the windows in **Deliverables** as completed.
 
 ### Hall of Fame
 | Name | Task | Link |
@@ -76,6 +83,8 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
-* [Kirill Malev](https://github.com/hiyorimi) - Managing director of TON Footsteps
-* [Slava Yakimenko](https://github.com/delovoyhomie) - Maintainer of TON Footsteps
+* [Slava Yakimenko](https://github.com/delovoyhomie) - Managing director of TON Footsteps
+* [Kirill Malev](https://github.com/hiyorimi) - Chief adviser of TON Footsteps
 * [Daniil Sedov](https://github.com/Gusarich) - Main contributor of TON Footsteps
+
+For any questions, please contact [Slava Yakimenko](https://github.com/delovoyhomie) during working hours.
