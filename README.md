@@ -10,20 +10,26 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 
 **Review Stage**
 1. The community can comment, discuss and suggest changes to the proposal.
-2. The TON Footsteps [committee](https://github.com/ton-society/ton-footsteps#the-ton-footsteps-committee) regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
+2. The TON Footsteps [committee](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
 3. After receipt of the label `approved`, footstep is approved for implementation, but has not yet been assigned to the performer.
 4. After discussing the amount of **reward**, **oriental release date** and the assignment of the performer (assigned), you can start performing footstep.
+
+**Completion stage**
+1. Finish the task and verify that all task deliverables are completed.
+2. Leave a comment with the next information:
+* Your TON wallet address;
+* Results achieved;
+* Desired name in the [Hall of Fame](https://github.com/ton-society/ton-footsteps#hall-of-fame).
+3. Wait for the [committee](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) to review your work.
 
 ### How to complete something from the list?
 1. Find a suitable task from the [list](https://github.com/ton-society/ton-footsteps/issues?q=is%3Aopen+is%3Aissue+label%3Aapproved) of the approved issues.
 2. Propose your plan or just ask to assign issue to yourself.
-3. Finish the task and verify that all task deliverables are completed.
-4. Leave a comment with information about your TON wallet address and results achieved.
-5. Wait for the [committee](https://github.com/ton-society/ton-footsteps#the-ton-footsteps-committee) to review your work.
+3. Follow steps 3, 4 in **[Review stage](https://github.com/ton-society/ton-footsteps#how-to-propose-something-to-the-list)** just above.
 
 **It's worth pay attention**
 * Please don't forget to do interim progress reports in the comments.
-* As you are done, mark the windows in **Deliverables** as completed.
+* If some milestone is done, mark the windows in **Deliverables** as completed.
 
 ### Hall of Fame
 | Name | Task | Link |
