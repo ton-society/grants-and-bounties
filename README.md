@@ -6,7 +6,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 **Ideation Stage**
 1. Open a [Footstep issue](https://github.com/ton-society/ton-footsteps/issues/new?assignees=&labels=footstep&template=Footstep.yaml). Name it using the name of your proposal.
 2. Fill the issue form or use [ton-footstep-issue-template.md](ton-footstep-issue-template.md) as a reference to explain the goal of the proposal. Use the [#217](https://github.com/ton-society/ton-footsteps/issues/217) issue as an example.
-3. Be sure to look at the [instructions for quickly creating footstep using ChatGPT](https://t.me/thetontech/47).
+3. Ensure to examine the [Telegram Bot](https://t.me/footsteps_helper_bot), which, upon a single request, will generate a ready-to-use footstep in compliance with the predefined parameters, visible in the [instructions for rapid footstep creation using ChatGPT](https://t.me/thetontech/47).
 
 **Review Stage**
 1. The community can comment, discuss and suggest changes to the proposal.
