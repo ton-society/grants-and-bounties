@@ -23,7 +23,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 3. The [**committee**](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) will review the work and distribute rewards.
 
 ### How to complete something from the list?
-1. Find a suitable task from the [**list**](https://github.com/ton-society/ton-footsteps/issues?q=is%3Aopen+is%3Aissue+label%3Aapproved) of the approved issues.
+1. Find a suitable task from the [**list of the approved issues and free from the performer**](https://github.com/ton-society/ton-footsteps/issues?q=is%3Aopen+is%3Aissue+label%3Aapproved+no%3Aassignee).
 2. Propose your plan or just ask to assign yourself to the issue.
 3. Follow next steps of [**Review and Completion stages**](https://github.com/ton-society/ton-footsteps#how-to-propose-something-to-the-list).
 
