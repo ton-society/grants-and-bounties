@@ -88,6 +88,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Coalus](https://github.com/coalus) | Article: NFT Collection step-by-step creation | [Issue](https://github.com/ton-society/ton-footsteps/issues/157) |
 | [TonDevStudy](https://github.com/TonDevStudy) | Series of videos on TON programming - Livecoding on FunC in English with TON Dev Study | [Issue](https://github.com/ton-society/ton-footsteps/issues/203) |
 | [XTON team](https://github.com/xtonwallet) | Development TON Connect 2.0 in XTON wallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/189) |
+| [Roman Zaycev](https://github.com/romanzaycev) | PHP SDK for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/205) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
