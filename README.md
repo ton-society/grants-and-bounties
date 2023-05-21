@@ -53,7 +53,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Nikita](https://github.com/sobolevn) | Adds peg parser for Tlb language | [Issue #59](https://github.com/ton-society/ton-footsteps/issues/59), [Issue #89](https://github.com/ton-society/ton-footsteps/issues/89), [Issue #92](https://github.com/ton-society/ton-footsteps/issues/92) |
 | [Gusarich](https://github.com/Gusarich) | Cover "Wallet Contracts" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/63) |
 | [Slava](https://github.com/delovoyhomie) | Tutorials: Mint a Fungible Token (Jetton) | [Issue](https://github.com/ton-society/ton-footsteps/issues/66) |
-| [Andrey Burnosov](https://github.com/AndreyBur) | Tutorial: How to run TON Site | [Issue](https://github.com/ton-society/ton-footsteps/issues/74) |
+| [Andrey Burnosov](https://github.com/AndreyBurnosov) | Tutorial: How to run TON Site | [Issue](https://github.com/ton-society/ton-footsteps/issues/74) |
 | [Gusarich](https://github.com/Gusarich) | Cover "How to open any TON Site" article | [Issue](https://github.com/ton-society/ton-footsteps/issues/75) |
 | [Dan Volkov](https://github.com/dvlkv) | NFT Sales for Jettons contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/67) |
 | [Vadim Volodin](https://github.com/PolyProgrammist/) | Add toncoin to trust wallet assets | [Issue](https://github.com/ton-society/ton-footsteps/issues/56) |
@@ -90,7 +90,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [XTON team](https://github.com/xtonwallet) | Development TON Connect 2.0 in XTON wallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/189) |
 | [Roman Zaycev](https://github.com/romanzaycev) | PHP SDK for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/205) |
 | [Slava](https://github.com/delovoyhomie), [Gusarich](https://github.com/gusarich) | Notifications in Telegram about new footsteps | [Issue](https://github.com/ton-society/ton-footsteps/issues/152) |
-| [Andrey Burnosov](https://github.com/AndreyBur) | Access control via NFT and SBT | [Issue](https://github.com/ton-society/ton-footsteps/issues/215) |
+| [Andrey Burnosov](https://github.com/AndreyBurnosov) | Access control via NFT and SBT | [Issue](https://github.com/ton-society/ton-footsteps/issues/215) |
 | [Andrey Kravchenko](https://github.com/XaBbl4) | Python library for TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/199) |
 
 ### TON Footsteps committee
