@@ -93,6 +93,8 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Andrey Burnosov](https://github.com/AndreyBurnosov) | Access control via NFT and SBT | [Issue](https://github.com/ton-society/ton-footsteps/issues/215) |
 | [Andrey Kravchenko](https://github.com/XaBbl4) | Python library for TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/199) |
 | [thekiba](https://github.com/thekiba), [goreactdev](https://github.com/goreactdev)   | ADNL over UDP for Node.JS  | [Issue](https://github.com/ton-society/ton-footsteps/issues/216)     |
+| [Gusarich](https://github.com/Gusarich) | Detailed description of TON block layout in the TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/201) |
+| [Gusarich](https://github.com/Gusarich) | Detailed description of Transaction layout in the TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/202) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
