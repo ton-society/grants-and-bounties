@@ -95,6 +95,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [thekiba](https://github.com/thekiba), [goreactdev](https://github.com/goreactdev)   | ADNL over UDP for Node.JS  | [Issue](https://github.com/ton-society/ton-footsteps/issues/216)     |
 | [Gusarich](https://github.com/Gusarich) | Detailed description of TON block layout in the TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/201) |
 | [Gusarich](https://github.com/Gusarich) | Detailed description of Transaction layout in the TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/202) |
+| [Slava](https://github.com/delovoyhomie), [Andrey Burnosov](https://github.com/AndreyBurnosov) | Blockchain Config | [Issue](https://github.com/ton-society/ton-footsteps/issues/119) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
