@@ -97,6 +97,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich) | Detailed description of Transaction layout in the TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/202) |
 | [Slava](https://github.com/delovoyhomie), [Andrey Burnosov](https://github.com/AndreyBurnosov) | Blockchain Config | [Issue](https://github.com/ton-society/ton-footsteps/issues/119) |
 | [Gusarich](https://github.com/Gusarich) | Massive sender bot and contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/165) |
+| [XTON team](https://github.com/xtonwallet) | VS Code extension for Tact language support | [Issue](https://github.com/ton-society/ton-footsteps/issues/131) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
