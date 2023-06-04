@@ -62,7 +62,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Slava](https://github.com/delovoyhomie) | Articles about "Toncli" and "Ton Storage" | [Issue](https://github.com/ton-society/ton-footsteps/issues/103) |
 | [Shayan Shojaei](https://github.com/shayan-shojaei) | General TON Stats Website | [Issue](https://github.com/ton-society/ton-footsteps/issues/11) |
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Articles: TVM assembly, Fift and the difference | [Issue](https://github.com/ton-society/ton-footsteps/issues/110) |
-| [Gusarich](https://github.com/Gusarich) | "Message Delivery Guarantees" Article, improvements and fixes in docs | [Issue](https://github.com/ton-society/ton-footsteps/issues/112) |
+| [Gusarich](https://github.com/Gusarich) | Articles, improvements, reviews and fixes for TON docs | [Issue](https://github.com/ton-society/ton-footsteps/issues/112) |
 | [Slava](https://github.com/delovoyhomie) | Telegram Bot for the TON Developer Community | [Issue](https://github.com/ton-society/ton-footsteps/issues/116) |
 | [Vadim Volodin](https://github.com/PolyProgrammist/), [Viacheslav Bushev](https://github.com/stspbu) | Add toncoin to trust wallet core | [Issue](https://github.com/ton-society/ton-footsteps/issues/81) |
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Integration manual for TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/123) |
