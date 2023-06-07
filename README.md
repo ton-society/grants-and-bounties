@@ -99,6 +99,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich) | Massive sender bot and contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/165) |
 | [XTON team](https://github.com/xtonwallet) | VS Code extension for Tact language support | [Issue](https://github.com/ton-society/ton-footsteps/issues/131) |
 | [Coalus](https://github.com/coalus) | Update and Refactor Awesome TON Page with TON Ecosystem Links | [Issue](https://github.com/ton-society/ton-footsteps/issues/237) |
+| [Coalus](https://github.com/coalus), [krau5](https://github.com/krau5) | SBT Minter telegram bot | [Issue](https://github.com/ton-society/ton-footsteps/issues/214) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
