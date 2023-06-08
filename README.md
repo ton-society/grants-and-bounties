@@ -73,7 +73,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Oleg Baranov](https://github.com/xssnick) | English Translation of Articles of TON Deep Doc | [Issue](https://github.com/ton-society/ton-footsteps/issues/128)|
 | [TonSafe](https://github.com/tonsafe) | Development TON Connect 2.0 in TonSafe | [Issue](https://github.com/ton-society/ton-footsteps/issues/140)|
 | [Mark](https://github.com/KIMCAT33) | Tonic Wallet : First Multi-Accounts based TON Extension Wallet supporting TC 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/155)|
-| [Gusarich](https://github.com/Gusarich), [Miandic](https://github.com/Miandic) | Multisig wallets support for `ton.js` and guide | [Issue](https://github.com/ton-society/ton-footsteps/issues/86) |
+| [Gusarich](https://github.com/Gusarich), [Miandic](https://github.com/Miandic) | Multisig wallets support for `ton.js` and guide | [Issue](https://github.com/ton-society/ton-footsteps/issues/86)|
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Article: Sending messages with TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/150) |
 | [Andrey Sorokin](https://github.com/sorokin0andrey) | Development TON Connect 2.0 in Tonkeeper | [Issue](https://github.com/ton-society/ton-footsteps/issues/161)|
 | [mytonwalletorg](https://github.com/mytonwalletorg) | Development TON Connect 2.0 in MyTonWallet | [Issue](https://github.com/ton-society/ton-footsteps/issues/149) |
@@ -100,6 +100,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [XTON team](https://github.com/xtonwallet) | VS Code extension for Tact language support | [Issue](https://github.com/ton-society/ton-footsteps/issues/131) |
 | [Coalus](https://github.com/coalus) | Update and Refactor Awesome TON Page with TON Ecosystem Links | [Issue](https://github.com/ton-society/ton-footsteps/issues/237) |
 | [Coalus](https://github.com/coalus), [krau5](https://github.com/krau5) | SBT Minter telegram bot | [Issue](https://github.com/ton-society/ton-footsteps/issues/214) |
+| [TonDevStudy](https://github.com/TonDevStudy) | Series of videos on TON programming - Livecoding on Python in English with TON Dev Study | [Issue](https://github.com/ton-society/ton-footsteps/issues/233) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
