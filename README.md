@@ -101,6 +101,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Coalus](https://github.com/coalus) | Update and Refactor Awesome TON Page with TON Ecosystem Links | [Issue](https://github.com/ton-society/ton-footsteps/issues/237) |
 | [Coalus](https://github.com/coalus), [krau5](https://github.com/krau5) | SBT Minter telegram bot | [Issue](https://github.com/ton-society/ton-footsteps/issues/214) |
 | [TonDevStudy](https://github.com/TonDevStudy) | Series of videos on TON programming - Livecoding on Python in English with TON Dev Study | [Issue](https://github.com/ton-society/ton-footsteps/issues/233) |
+| [ProgramCrafter](https://github.com/ProgramCrafter) | TON Timer | [Issue](https://github.com/ton-society/ton-footsteps/issues/71) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
