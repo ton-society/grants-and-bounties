@@ -50,6 +50,8 @@ body:
       placeholder: |
         * Standard TON Footstep NFT
         * TBD
+
+        Total: $
     validations:
       required: True
   - type: textarea
