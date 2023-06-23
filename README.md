@@ -104,6 +104,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [ProgramCrafter](https://github.com/ProgramCrafter) | TON Timer | [Issue](https://github.com/ton-society/ton-footsteps/issues/71) |
 | [Ivan Romanovich](https://github.com/romanovichim) | Dart library for TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/228) |
 | [thekiba](https://github.com/thekiba), [goreactdev](https://github.com/goreactdev) | Ton Developers Program: Footsteps | [Issue](https://github.com/ton-society/ton-footsteps/issues/221) |
+| [Gusarich](https://github.com/Gusarich) | Documentation for Get Methods (Getters) in TON Blockchain | [Issue](https://github.com/ton-society/ton-footsteps/issues/250) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
