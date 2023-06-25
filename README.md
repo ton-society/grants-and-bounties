@@ -105,6 +105,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Ivan Romanovich](https://github.com/romanovichim) | Dart library for TON Connect 2.0 | [Issue](https://github.com/ton-society/ton-footsteps/issues/228) |
 | [thekiba](https://github.com/thekiba), [goreactdev](https://github.com/goreactdev) | Ton Developers Program: Footsteps | [Issue](https://github.com/ton-society/ton-footsteps/issues/221) |
 | [Gusarich](https://github.com/Gusarich) | Documentation for Get Methods (Getters) in TON Blockchain | [Issue](https://github.com/ton-society/ton-footsteps/issues/250) |
+| [yungwine](https://github.com/yungwine) | Step-by-Step Guide for Launching Liteserver | [Issue](https://github.com/ton-society/ton-footsteps/issues/249) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
