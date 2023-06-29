@@ -107,6 +107,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich) | Documentation for Get Methods (Getters) in TON Blockchain | [Issue](https://github.com/ton-society/ton-footsteps/issues/250) |
 | [yungwine](https://github.com/yungwine) | Step-by-Step Guide for Launching Liteserver | [Issue](https://github.com/ton-society/ton-footsteps/issues/249) |
 | [SeriyBeliy](https://github.com/seriybeliy11) | Reproducible research of performance of TON Footsteps as a Component | [Issue](https://github.com/ton-society/ton-footsteps/issues/184) |
+| [ProgramCrafter](https://github.com/ProgramCrafter) | Step-by-step explanation for TON DNS subdomains system | [Issue](https://github.com/ton-society/ton-footsteps/issues/251) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
