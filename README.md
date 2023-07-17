@@ -110,6 +110,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [ProgramCrafter](https://github.com/ProgramCrafter) | Step-by-step explanation for TON DNS subdomains system | [Issue](https://github.com/ton-society/ton-footsteps/issues/251) |
 | [NMI](https://github.com/NMIFUN) | Testnet coins faucet bot for Telegram | [Issue](https://github.com/ton-society/ton-footsteps/issues/179) |
 | [TonDevStudy](https://github.com/TonDevStudy) | TON Dev Study - Learn send_mode and fees through Sandbox tests | [Issue](https://github.com/ton-society/ton-footsteps/issues/229) |
+| [pyAndr3w](https://github.com/pyAndr3w) | C# SDK for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/204) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
