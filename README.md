@@ -113,6 +113,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [pyAndr3w](https://github.com/pyAndr3w), [Purple Guy](https://github.com/purpleguy99) | C# SDK for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/204) |
 | [Novus Nota](https://github.com/novusnota) | Dart/Flutter SDK for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/224) |
 | [Novus Nota](https://github.com/novusnota) | Detailed description of initialization stage for TVM in the TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/196) |
+| [thekiba](https://github.com/thekiba), [goreactdev](https://github.com/goreactdev) | DHT over ADNL for Node.JS | [Issue](https://github.com/ton-society/ton-footsteps/issues/258) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
