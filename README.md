@@ -116,6 +116,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [thekiba](https://github.com/thekiba), [goreactdev](https://github.com/goreactdev) | DHT over ADNL for Node.JS | [Issue](https://github.com/ton-society/ton-footsteps/issues/258) |
 | [Vladislav Kibenko](https://github.com/heyqbnk) | Telegram Web Apps platform documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/206) |
 | [Monnttes](https://github.com/hrmon) | Upgrade verifier-contracts + verifier web app + verifier backend | [Issue](https://github.com/ton-society/ton-footsteps/issues/163) |
+| [Novus Nota](https://github.com/novusnota) | Detailed description of initialization stage for TVM in the TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/196) |
 
 
 ### TON Footsteps committee
