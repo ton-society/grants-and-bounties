@@ -117,7 +117,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Vladislav Kibenko](https://github.com/heyqbnk) | Telegram Web Apps platform documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/206) |
 | [Monnttes](https://github.com/hrmon) | Upgrade verifier-contracts + verifier web app + verifier backend | [Issue](https://github.com/ton-society/ton-footsteps/issues/163) |
 | [Yablonev](https://github.com/Yablonev) | TON DNS Renewal tool | [Issue](https://github.com/ton-society/ton-footsteps/issues/275) |
-
+| [Alefman Vladimir](https://github.com/alefmanvladimir) | Creation of a Smart Contract Development Course on Tact | [Issue](https://github.com/ton-society/ton-footsteps/issues/247) |
 
 ### TON Footsteps committee
 * [Anthony Tsivarev](https://github.com/tsivarev) - Director of Developer Relations 
