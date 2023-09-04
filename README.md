@@ -122,6 +122,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Gusarich](https://github.com/Gusarich), [Ivan Romanovich](https://github.com/romanovichim) | Update TON FunC Lessons with Blueprint SDK | [Issue](https://github.com/ton-society/ton-footsteps/issues/235) |
 | [Andrey Burnosov](https://github.com/AndreyBurnosov) | Tutorial: "Developing a Telegram Bot App to Check Ownership of NFT" | [Issue](https://github.com/ton-society/ton-footsteps/issues/173) |
 | [Vadim Volodin](https://github.com/PolyProgrammist) | Add jettons to trust wallet core | [Issue](https://github.com/ton-society/ton-footsteps/issues/255) |
+| [Ivan Bridge](https://github.com/deivana), [Andrey Burnosov](https://github.com/AndreyBurnosov) | Creation of a platform for checks (coupons) | [Issue](https://github.com/ton-society/ton-footsteps/issues/244) |
 
 
 ### TON Footsteps committee
