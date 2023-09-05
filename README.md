@@ -39,7 +39,7 @@ The list of the TON Footsteps represented in the GitHub [issues](https://github.
 | [Oleg Baranov](https://github.com/xssnick) | Soulbound NFT's | [Issue](https://github.com/ton-society/ton-footsteps/issues/23) |
 | [Oleg Baranov](https://github.com/xssnick) | NFT Swap Contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/32) |
 | [Roman](https://github.com/swiftadviser) | User-friendly TON Documentation | [Issue](https://github.com/ton-society/ton-footsteps/issues/31) |
-| [Nikita](https://github.com/sobolevn) | `highligh.js` integration | [Issue](https://github.com/ton-society/ton-footsteps/issues/42) |
+| [Nikita](https://github.com/sobolevn) | `highlight.js` integration | [Issue](https://github.com/ton-society/ton-footsteps/issues/42) |
 | [Purple](https://github.com/purp1le) | NFT Raffle contract | [Issue](https://github.com/ton-society/ton-footsteps/issues/37) |
 | [Dan Volkov](https://github.com/dvlkv) | FunC, Fift and TL-b lexers for pygments | [Issue](https://github.com/ton-society/ton-footsteps/issues/40) |
 | [Nikita](https://github.com/sobolevn) | Fift syntax highlight for `highlight.js` | [Issue](https://github.com/ton-society/ton-footsteps/issues/45) |
