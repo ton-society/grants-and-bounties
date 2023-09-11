@@ -1,0 +1,38 @@
+name: Education materials
+description: Suggest educational materials to be created/improved.
+labels: 'Education materials'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for stepping up to improve TON Ecosystem!
+  - type: textarea
+    attributes:
+      label: "Summary"
+      description: "Short summary of what kind of materials should be created/improved."
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Context"
+      description: "Provide some information required to understand why materials should be created/improved."
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Learning goals"
+      description: "What are the main things consumers of this materials will learn?"
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "References"
+      description: "Provide links to resources similar in their contents or format"
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Estimate suggested reward"
+      description: "Please approximate the reward size (in $)"
+    validations:
+      required: False

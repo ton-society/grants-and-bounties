@@ -1,0 +1,32 @@
+name: Dev Tooling
+description: Suggest developer tools to be created/improved.
+labels: 'Dev Tooling'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for stepping up to improve TON Ecosystem!
+  - type: textarea
+    attributes:
+      label: "Summary"
+      description: "Short summary of developer tool to be created/improved."
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Context"
+      description: "Provide some information required to understand why the developer tool should be created/improved."
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "References"
+      description: "Provide links or references for similar tools/functionalities"
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Estimate suggested reward"
+      description: "Please approximate the reward size (in $)"
+    validations:
+      required: False
