@@ -96,3 +96,4 @@
 | [Ivan Bridge](https://github.com/deivana), [Andrey Burnosov](https://github.com/AndreyBurnosov) | Creation of a platform for checks (coupons) | [Issue](https://github.com/ton-society/ton-footsteps/issues/244) |
 | [MaksymDS](https://github.com/MaksymDS) | Tutorial: "How to analyse TON blockchain with TONalytica" | [Issue](https://github.com/ton-society/ton-footsteps/issues/287) |
 | [Novus Nota](https://github.com/novusnota) | Update Tact language syntax for prism.js | [Issue](https://github.com/ton-society/ton-footsteps/issues/288) |
+| [ProgramCrafter](https://github.com/ProgramCrafter) | EC Verified Random Function | [Issue](https://github.com/ton-society/ton-footsteps/issues/268) |
