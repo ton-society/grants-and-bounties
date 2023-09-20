@@ -98,3 +98,4 @@
 | [Novus Nota](https://github.com/novusnota) | Update Tact language syntax for prism.js | [Issue](https://github.com/ton-society/ton-footsteps/issues/288) |
 | [ProgramCrafter](https://github.com/ProgramCrafter) | EC Verified Random Function | [Issue](https://github.com/ton-society/ton-footsteps/issues/268) |
 | [Ivan Romanovich](https://github.com/romanovichim) | TON Speedrun | [Issue](https://github.com/ton-society/ton-footsteps/issues/252) |
+| [Yash Garg](https://github.com/yash0501) | Adding Tact language to learnxinyminutes | [Issue](https://github.com/ton-society/ton-footsteps/issues/285) |
