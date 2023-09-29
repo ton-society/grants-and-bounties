@@ -100,3 +100,4 @@
 | [Ivan Romanovich](https://github.com/romanovichim) | TON Speedrun | [Issue](https://github.com/ton-society/ton-footsteps/issues/252) |
 | [Yash Garg](https://github.com/yash0501) | Adding Tact language to learnxinyminutes | [Issue](https://github.com/ton-society/ton-footsteps/issues/285) |
 | [Disintar team](https://github.com/tvorogme) | Native python bindings for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/231) |
+| [Coalus](https://github.com/coalus) | Setup SBT rewards in "TON Hello World" series | [Issue](https://github.com/ton-society/ton-footsteps/issues/279) |
