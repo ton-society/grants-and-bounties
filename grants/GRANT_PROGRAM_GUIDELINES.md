@@ -40,9 +40,10 @@ Projects that align with the following priority categories have an increased lik
 - Self-Deployed Node Images for Cloud Services (AWS, Azure, etc.)
 
 ### GameFi
-- Scolarship (e.g., YGG)
-- Rarity tools (e.g., rarity.tools)
+- Games in Telegram (especially with new use cases for NFT, jettons and social mechanics)
+- HTML5 Engines Support (similar to [Unity SDK](https://docs.tonplay.io/sdk/unity-sdk), but for Cocos2d or Phaser)
+- Scolarships (e.g., YGG) and tools for them (e.g., GuildFi)
+- Rarity tools (e.g., rarity.tools) 
 - NFT Lending (e.g., nftfi.com)
-- HTML5 Engines Support (ex. Cocos2d support for TON libraries)
 - Meta transactions, gasless onboarding
   
