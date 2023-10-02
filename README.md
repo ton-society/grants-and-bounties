@@ -19,7 +19,7 @@ An overview of existing TON projects can be found in [TON Ecosystem Map](https:/
 On our [Questbook page](https://questbook.app/dashboard/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10), you'll find both a comprehensive list of submitted grant proposals and a form to [**submit your own application**](https://questbook.app/proposal_form/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10&newTab=true). Please review the [grants program guidelines](/grants/GRANT_PROGRAM_GUIDELINES.md) thoroughly before submitting your proposal.
 
 **❗️ Note for game developers:**
-We are actively supporting the gaming landscape on TON Ecosystem. Our core support in this field is channeled through our specialized [GameFi center](https://ton.org/gamefi), which provides technical support, marketing aid, and investment opportunities.
+We are actively supporting the gaming landscape on TON Ecosystem. Our core support in this field is channeled through our specialized [GameFi center](https://ton.org/gamefi), which provides technical support, marketing aid, and investment opportunities. In case your grant proposal was rejected - you might be still eligible for the support from GameFi center.
 
 ## **Telegram Web3 Grants**
 
