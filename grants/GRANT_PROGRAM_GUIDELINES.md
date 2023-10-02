@@ -50,34 +50,34 @@ Projects that align with the following priority categories have an increased lik
 
 When submitting a grant proposal, it's essential to ensure that your submission is clear, concise, and aligns with the goals of TON Grants program. Based on common rejection reasons, here's a guide to help you understand what might lead to a proposal being declined and how to avoid these pitfalls:
 
-1. **Unclear or Misleading Proposals** \n
-**Issue:** Proposals that are vague, use misleading terminology, or lack a clear objective are often rejected.
+1. **Unclear or Misleading Proposals** </br>
+**Issue:** Proposals that are vague, use misleading terminology, or lack a clear objective are often rejected.</br>
 **Solution:** Clearly define the problem you're addressing. Use straightforward language and avoid jargon. Clearly state the objectives and expected outcomes of your project.
 
-2. **Lack of Detailed Milestones** \n
-**Issue:** Proposals without a clear breakdown of milestones can be seen as lacking in planning or feasibility.
+2. **Lack of Detailed Milestones** </br>
+**Issue:** Proposals without a clear breakdown of milestones can be seen as lacking in planning or feasibility.</br>
 **Solution:** Break down your project into specific, achievable milestones. Provide timelines for each milestone. Detail the expected outcomes and deliverables for each phase.
 
-3. **Overlap with Existing Initiatives**
-\n**Issue:** In case TON Grants program already supports a similar project or initiative, your proposal might be seen as redundant. Same might apply if there is already a functioning project in TON Ecosystem with similar value proposition.
+3. **Overlap with Existing Initiatives**</br>
+**Issue:** In case TON Grants program already supports a similar project or initiative, your proposal might be seen as redundant. Same might apply if there is already a functioning project in TON Ecosystem with similar value proposition.</br>
 **Solution:** Research [TON Ecosystem Map](https://github.com/ton-society/ecosytem-map) to learn about existing projects and initiatives. Highlight what makes your proposal unique or how it complements existing efforts.
 
-4. **Misalignment with Areas of Interests of TON Grants program**
-\n**Issue:** Proposals that don't align with the specific areas of interest of TON Grants program are less likely to be approved.
+4. **Misalignment with Areas of Interests of TON Grants program**</br>
+**Issue:** Proposals that don't align with the specific areas of interest of TON Grants program are less likely to be approved.</br>
 **Solution:** Familiarize yourself with our [areas of interest](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests). Tailor your proposal to align with these areas.
 
-5. **Overpriced Budgets**
-\n**Issue:** Proposals with budgets that seem inflated or don't provide a clear breakdown of costs can be rejected.
+5. **Overpriced Budgets**</br>
+**Issue:** Proposals with budgets that seem inflated or don't provide a clear breakdown of costs can be rejected.</br>
 **Solution:** Provide a detailed budget breakdown. Justify each expense and ensure it aligns with industry standards. Be transparent about all costs involved.
 
-6. **Lack of Expertise or Relevant Experience**
-\n**Issue:** Proposals that don't demonstrate the necessary expertise or experience might be seen as high-risk.
+6. **Lack of Expertise or Relevant Experience**</br>
+**Issue:** Proposals that don't demonstrate the necessary expertise or experience might be seen as high-risk.</br>
 **Solution:** Highlight your team's qualifications and past achievements. If possible, provide case studies or examples of past successful projects.
 
-7. **Alternative Support Options**
-\n**Issue:** Sometimes, the project submitting a proposal is a better fit for our other support programs.
+7. **Alternative Support Options**</br>
+**Issue:** Sometimes, the project submitting a proposal is a better fit for our other support programs.</br>
 **Solution:** Research all the programs and find the best fit for you.
 
-8. **Independence and Self-Sustainability**
-\n**Issue:** Proposals that seem overly reliant on grant funding without a clear path to self-sustainability can be less appealing.
+8. **Independence and Self-Sustainability**</br>
+**Issue:** Proposals that seem overly reliant on grant funding without a clear path to self-sustainability can be less appealing.</br>
 **Solution:** Detail how the project will become self-sustaining after the grant period. Highlight any additional sources of funding or revenue streams.
