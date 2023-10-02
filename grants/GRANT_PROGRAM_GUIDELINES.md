@@ -35,7 +35,6 @@ Projects that align with the following priority categories have an increased lik
 ### Infrastructure
 - Web IDE
 - API Provider (for GraphQL & Event Streaming)
-- Web3 OAuth 
 - Nodes Healthcheck & Monitoring
 - Self-Deployed Node Images for Cloud Services (AWS, Azure, etc.)
 
