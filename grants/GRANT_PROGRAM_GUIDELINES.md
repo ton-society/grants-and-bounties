@@ -51,35 +51,33 @@ Projects that align with the following priority categories have an increased lik
 When submitting a grant proposal, it's essential to ensure that your submission is clear, concise, and aligns with the goals of TON Grants program. Based on common rejection reasons, here's a guide to help you understand what might lead to a proposal being declined and how to avoid these pitfalls:
 
 1. **Unclear or Misleading Proposals**
-   
-**Issue:** Proposals that are vague, use misleading terminology, or lack a clear objective are often rejected.
+\n**Issue:** Proposals that are vague, use misleading terminology, or lack a clear objective are often rejected.
 **Solution:** Clearly define the problem you're addressing. Use straightforward language and avoid jargon. Clearly state the objectives and expected outcomes of your project.
 
 3. **Lack of Detailed Milestones**
-   
-**Issue:** Proposals without a clear breakdown of milestones can be seen as lacking in planning or feasibility.
+\n**Issue:** Proposals without a clear breakdown of milestones can be seen as lacking in planning or feasibility.
 **Solution:** Break down your project into specific, achievable milestones. Provide timelines for each milestone. Detail the expected outcomes and deliverables for each phase.
 
 5. **Overlap with Existing Initiatives**
-**Issue:** In case TON Grants program already supports a similar project or initiative, your proposal might be seen as redundant. Same might apply if there is already a functioning project in TON Ecosystem with similar value proposition.
+\n**Issue:** In case TON Grants program already supports a similar project or initiative, your proposal might be seen as redundant. Same might apply if there is already a functioning project in TON Ecosystem with similar value proposition.
 **Solution:** Research [TON Ecosystem Map](https://github.com/ton-society/ecosytem-map) to learn about existing projects and initiatives. Highlight what makes your proposal unique or how it complements existing efforts.
 
 6. **Misalignment with Areas of Interests of TON Grants program**
-**Issue:** Proposals that don't align with the specific areas of interest of TON Grants program are less likely to be approved.
+\n**Issue:** Proposals that don't align with the specific areas of interest of TON Grants program are less likely to be approved.
 **Solution:** Familiarize yourself with our [areas of interest](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests). Tailor your proposal to align with these areas.
 
 7. **Overpriced Budgets**
-**Issue:** Proposals with budgets that seem inflated or don't provide a clear breakdown of costs can be rejected.
+\n**Issue:** Proposals with budgets that seem inflated or don't provide a clear breakdown of costs can be rejected.
 **Solution:** Provide a detailed budget breakdown. Justify each expense and ensure it aligns with industry standards. Be transparent about all costs involved.
 
 8. **Lack of Expertise or Relevant Experience**
-**Issue:** Proposals that don't demonstrate the necessary expertise or experience might be seen as high-risk.
+\n**Issue:** Proposals that don't demonstrate the necessary expertise or experience might be seen as high-risk.
 **Solution:** Highlight your team's qualifications and past achievements. If possible, provide case studies or examples of past successful projects.
 
 9. **Alternative Support Options**
-**Issue:** Sometimes, the project submitting a proposal is a better fit for our other support programs.
+\n**Issue:** Sometimes, the project submitting a proposal is a better fit for our other support programs.
 **Solution:** Research all the programs and find the best fit for you.
 
 10. **Independence and Self-Sustainability**
-**Issue:** Proposals that seem overly reliant on grant funding without a clear path to self-sustainability can be less appealing.
+\n**Issue:** Proposals that seem overly reliant on grant funding without a clear path to self-sustainability can be less appealing.
 **Solution:** Detail how the project will become self-sustaining after the grant period. Highlight any additional sources of funding or revenue streams.
