@@ -1,6 +1,6 @@
 name: Dev Tooling
 description: Suggest developer tools to be created/improved.
-labels: 'Dev Tooling'
+labels: 'Developers and Community Tools'
 body:
   - type: markdown
     attributes:
