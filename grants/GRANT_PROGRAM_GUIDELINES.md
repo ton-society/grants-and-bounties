@@ -50,7 +50,7 @@ Projects that align with the following priority categories have an increased lik
 
 When submitting a grant proposal, it's essential to ensure that your submission is clear, concise, and aligns with the goals of TON Grants program. Based on common rejection reasons, here's a guide to help you understand what might lead to a proposal being declined and how to avoid these pitfalls:
 
-1. **Unclear or Misleading Proposals** \n
+1. **Unclear or Misleading Proposals** </br>
 **Issue:** Proposals that are vague, use misleading terminology, or lack a clear objective are often rejected.
 **Solution:** Clearly define the problem you're addressing. Use straightforward language and avoid jargon. Clearly state the objectives and expected outcomes of your project.
 
