@@ -30,7 +30,7 @@ Get familiar with [program guidelines](https://blog.ton.org/ton-foundation-annou
 ## **Bounties program**
 
 Our Bounties program is an open community initiative that is fast-forwarding support for valuable contributions:
-- Contributions to Dev Tooling
+- Contributions to Developers and Community Tools
 - Educational materials creation
 - Enhancing documentation and other community resources
 
