@@ -102,4 +102,5 @@
 | [Disintar team](https://github.com/tvorogme) | Native python bindings for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/231) |
 | [Coalus](https://github.com/coalus) | Setup SBT rewards in "TON Hello World" series | [Issue](https://github.com/ton-society/ton-footsteps/issues/279) |
 | [Yash Garg](https://github.com/yash0501) | Ecosystem Map for TON Blockchain Components | [Issue](https://github.com/ton-society/ton-footsteps/issues/292) |
-| [Spite Moriarty](https://github.com/aSpite) | Haktoberfest issues parser | [Issue](https://github.com/ton-society/ton-footsteps/issues/314)
+| [Spite Moriarty](https://github.com/aSpite) | Haktoberfest issues parser | [Issue](https://github.com/ton-society/ton-footsteps/issues/314) |
+| [krau5](https://github.com/krau5) | Update tutorial "TON Hello World part 2: Step by step guide for writing your first smart contract" with Blueprint SDK for smart contracts development | [Issue](https://github.com/ton-society/ton-footsteps/issues/313) |
