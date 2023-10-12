@@ -1,6 +1,6 @@
 name: Education materials
 description: Suggest educational materials to be created/improved.
-labels: 'Education materials'
+labels: 'Education'
 body:
   - type: markdown
     attributes:
