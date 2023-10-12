@@ -1,6 +1,6 @@
-name: Documentation and Resources
-description: Suggest an improvement to documentation or other community resources (ex. Ecosystem Map, Awesome Tact repository etc.).
-labels: 'Documentation and Resources'
+name: Resources
+description: Suggest an improvement to community resources (ex. Ecosystem Map, Awesome Tact repository etc.).
+labels: 'Resource'
 body:
   - type: markdown
     attributes:
