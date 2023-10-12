@@ -1,6 +1,6 @@
 name: Developers and Community Tools
 description: Suggest developers or community tools to be created/improved.
-labels: 'Developers and Community Tools'
+labels: 'Developer Tool'
 body:
   - type: markdown
     attributes:
