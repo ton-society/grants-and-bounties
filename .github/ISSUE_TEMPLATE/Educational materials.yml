@@ -36,9 +36,3 @@ body:
       description: "Please approximate the reward size (in $)"
     validations:
       required: False
-  - type: textarea
-    attributes:
-      label: "Definition of Done"
-      description: "Specify the criteria to consider this task completed. Please use checkboxes '- [ ]'"
-    validations:
-      required: True
