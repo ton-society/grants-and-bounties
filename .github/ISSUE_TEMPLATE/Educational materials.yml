@@ -34,5 +34,6 @@ body:
     attributes:
       label: "Estimate suggested reward"
       description: "Please approximate the reward size (in $)"
+      placeholder: "Specify the criteria to consider this task completed. Please use checkboxes '- [ ]'"
     validations:
       required: False
