@@ -39,6 +39,6 @@ body:
   - type: textarea
     attributes:
       label: "Definition of Done"
-      description: "Specify the criteria to consider this task completed. Please use checkboxes "- [ ]"
+      description: "Specify the criteria to consider this task completed. Please use checkboxes "- [ ]""
     validations:
       required: True
