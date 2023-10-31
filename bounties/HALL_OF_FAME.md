@@ -106,7 +106,6 @@
 | [krau5](https://github.com/krau5) | Update tutorial "TON Hello World part 2: Step by step guide for writing your first smart contract" with Blueprint SDK for smart contracts development | [Issue](https://github.com/ton-society/ton-footsteps/issues/313) |
 | [Purple Guy](https://github.com/purpleguy99) | C# library for TON Connect 2.0 | [Issue](https://github.com/ton-society/grants-and-bounties/issues/276) |
 | [nerzh](https://github.com/nerzh) | Ruby SDK For TON | [Issue](https://github.com/ton-society/grants-and-bounties/issues/188) |
-| [yungwine](https://github.com/yungwine) | ADNL over UDP and DHT implementations in Python | [Issue](https://github.com/ton-society/ton-footsteps/issues/296) |
 | [yungwine](https://github.com/yungwine) | TON Connect + Telegram Bot showcase on Python | [Issue](https://github.com/ton-society/ton-footsteps/issues/329) |
 | [Sergey Andreev](https://github.com/siandreev) | TON Connect Telegram bot & @wallet  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/315) |
 
