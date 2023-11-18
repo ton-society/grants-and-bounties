@@ -10,7 +10,7 @@
 All the bounty tasks are initially published and discussed on GitHub.
 
 ### Ideation Stage
-1. Open a GitHub [**bounty issue**](https://github.com/marktoncontest/grants-and-bounties/issues/new/choose). It's important to choose a proper category for your bounty task.
+1. Open a GitHub [**bounty issue**](https://github.com/ton-society/grants-and-bounties/issues/new/choose). It's important to choose a proper category for your bounty task.
 2. Name the GitHub issue with a title that properly describes your proposal.
 3. Fill in GitHub issue fields and publish it.
    
