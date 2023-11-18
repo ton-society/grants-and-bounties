@@ -108,4 +108,4 @@
 | [nerzh](https://github.com/nerzh) | Ruby SDK For TON | [Issue](https://github.com/ton-society/grants-and-bounties/issues/188) |
 | [yungwine](https://github.com/yungwine) | TON Connect + Telegram Bot showcase on Python | [Issue](https://github.com/ton-society/ton-footsteps/issues/329) |
 | [Sergey Andreev](https://github.com/siandreev) | TON Connect Telegram bot & @wallet  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/315) |
-
+| [Novus Nota](https://github.com/novusnota) | Tact support for the Vim editor | [Issue](https://github.com/ton-society/grants-and-bounties/issues/320) |
