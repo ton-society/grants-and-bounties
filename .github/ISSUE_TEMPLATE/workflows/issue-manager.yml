@@ -1,0 +1,33 @@
+name: Issue Manager
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  issue_comment:
+    types:
+      - created
+      - edited
+  issues:
+    types:
+      - labeled
+  pull_request_target:
+    types:
+      - labeled
+  workflow_dispatch:
+
+jobs:
+  issue-manager:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tiangolo/issue-manager@0.4.0
+        with:
+          token: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+          config: >
+            {
+                "waiting": {
+                    "delay": 1209600,
+                    "message": "This issue has been automatically closed due to 14 days of inactivity and lack of the additional information requested. \nPlease feel free to reopen it if you wish to provide further details or require assistance.",
+                    "remove_label_on_comment": true,
+                    "remove_label_on_close": false
+                }
+            }
