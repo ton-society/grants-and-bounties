@@ -112,3 +112,4 @@
 | [Novus Nota](https://github.com/novusnota) | Tact support for the Vim editor | [Issue](https://github.com/ton-society/grants-and-bounties/issues/320) |
 | [Ivan Bridge](https://github.com/deivana), [Gusarich](https://github.com/Gusarich) | Crypto Donate Service (with smart contract) | [Issue](https://github.com/ton-society/grants-and-bounties/issues/305) |
 | [krau5](https://github.com/krau5) | Splitting TVM Instruction Documentation Page | [Issue](https://github.com/ton-society/grants-and-bounties/issues/358) |
+| [coalus](https://github.com/coalus) | Setup SBT rewards in the tonspeedrun.com challenges | [Issue](https://github.com/ton-society/grants-and-bounties/issues/330)
