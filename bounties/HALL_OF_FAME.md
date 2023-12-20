@@ -112,4 +112,6 @@
 | [Novus Nota](https://github.com/novusnota) | Tact support for the Vim editor | [Issue](https://github.com/ton-society/grants-and-bounties/issues/320) |
 | [Ivan Bridge](https://github.com/deivana), [Gusarich](https://github.com/Gusarich) | Crypto Donate Service (with smart contract) | [Issue](https://github.com/ton-society/grants-and-bounties/issues/305) |
 | [krau5](https://github.com/krau5) | Splitting TVM Instruction Documentation Page | [Issue](https://github.com/ton-society/grants-and-bounties/issues/358) |
+| [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
+
