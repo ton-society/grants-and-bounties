@@ -116,3 +116,5 @@
 | [Spite Moriarty](https://github.com/aSpite) | Dominant assurance contract | [Issue](https://github.com/ton-society/grants-and-bounties/issues/318) |
 | [Spite Moriarty](https://github.com/aSpite) | NFT Fractionalization standard | [Issue](https://github.com/ton-society/grants-and-bounties/issues/295) |
 | [Spite Moriarty](https://github.com/aSpite) | Create Tact lexer for pygments | [Issue](https://github.com/ton-society/grants-and-bounties/issues/350) |
+| [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
+| [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
