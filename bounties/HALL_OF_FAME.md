@@ -118,3 +118,4 @@
 | [Spite Moriarty](https://github.com/aSpite) | Create Tact lexer for pygments | [Issue](https://github.com/ton-society/grants-and-bounties/issues/350) |
 | [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
+| [shibdev](https://github.com/shibdev) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
