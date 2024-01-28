@@ -121,4 +121,3 @@
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Revuza](https://github.com/LevZed), [shibdev](https://github.com/shibdev) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Shon Ness](https://github.com/nessshon) | TonAPI SDK for Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/375) |
-| [Shon Ness](https://github.com/nessshon) | TON Connect UI for aiogram-based bots | [Issue](https://github.com/ton-society/grants-and-bounties/issues/379) |
