@@ -120,4 +120,5 @@
 | [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Revuza](https://github.com/LevZed), [shibdev](https://github.com/shibdev) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
+| [Spite Moriarty](https://github.com/aSpite) | Enhance Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/360) |
 | [Ilya Smirnov](https://github.com/mainsmirnov), [Alex Cucos](https://github.com/skiezest) | Telegram UI Kit in Figma | [Issue](https://github.com/ton-society/grants-and-bounties/issues/363) |
