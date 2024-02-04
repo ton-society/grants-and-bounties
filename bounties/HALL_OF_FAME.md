@@ -124,3 +124,4 @@
 | [Spite Moriarty](https://github.com/aSpite) | Enhance Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/360) |
 | [Ilya Smirnov](https://github.com/mainsmirnov), [Alex Cucos](https://github.com/skiezest) | Telegram UI Kit in Figma | [Issue](https://github.com/ton-society/grants-and-bounties/issues/363) |
 | [SeriyBeliy](https://github.com/seriybeliy11) | Development of a Web Application for Visualizing Performance Metrics | [Issue](https://github.com/ton-society/grants-and-bounties/issues/355) |
+| [Vadim Volodin](https://github.com/polyprogrammist) | TLB Codegen for Node.js | [Issue](https://github.com/ton-society/grants-and-bounties/issues/259) |
