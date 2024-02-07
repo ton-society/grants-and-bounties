@@ -1,4 +1,4 @@
-<a href="https://ton.org/">
+<a href="https://ton.org/grants">
 	<img width="100%" src="/assets/thin-header.png" alt="TON Ecosystem" />
 </a>
 
