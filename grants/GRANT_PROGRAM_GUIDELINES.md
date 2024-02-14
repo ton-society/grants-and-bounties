@@ -99,3 +99,6 @@ Requirements specific to open-source technical projects:
 
 - All code produced as part of this category of grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
 - Applications must not mention a specific token. Furthermore, the focus of the application should lie on the software that is being implemented/research being carried out as part of the grant, and less on your project/venture/operation. For the purpose of the application and delivery, think about how others might also benefit from your work.
+
+## [Apply now](https://questbook.app/proposal_form/?grantId=65c7836df27e2e1702d2d279&chainId=10&newTab=true)
+
