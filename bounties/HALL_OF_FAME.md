@@ -99,7 +99,7 @@
 | [ProgramCrafter](https://github.com/ProgramCrafter) | EC Verified Random Function | [Issue](https://github.com/ton-society/ton-footsteps/issues/268) |
 | [Ivan Romanovich](https://github.com/romanovichim) | TON Speedrun | [Issue](https://github.com/ton-society/ton-footsteps/issues/252) |
 | [Yash Garg](https://github.com/yash0501) | Adding Tact language to learnxinyminutes | [Issue](https://github.com/ton-society/ton-footsteps/issues/285) |
-| [Disintar team](https://github.com/tvorogme) | Native python bindings for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/231) |
+| [Disintar team](https://github.com/disintar) | Native python bindings for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/231) |
 | [Coalus](https://github.com/coalus) | Setup SBT rewards in "TON Hello World" series | [Issue](https://github.com/ton-society/ton-footsteps/issues/279) |
 | [Yash Garg](https://github.com/yash0501) | Ecosystem Map for TON Blockchain Components | [Issue](https://github.com/ton-society/ton-footsteps/issues/292) |
 | [Spite Moriarty](https://github.com/aSpite) | Haktoberfest issues parser | [Issue](https://github.com/ton-society/ton-footsteps/issues/314) |
@@ -127,3 +127,4 @@
 | [liketurbo](https://github.com/liketurbo) | Improve TVM Instructions Table Readability | [Issue](https://github.com/ton-society/grants-and-bounties/issues/361) |
 | [Vadim Volodin](https://github.com/polyprogrammist) | TLB Codegen for Node.js | [Issue](https://github.com/ton-society/grants-and-bounties/issues/259) |
 | [Novus Nota](https://github.com/novusnota) | Tree-sitter parser for the Tact language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/302) |
+| [Disintar team](https://github.com/disintar) | CEX status monitor | [Issue](https://github.com/ton-society/ton-footsteps/issues/416) |
