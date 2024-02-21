@@ -127,3 +127,4 @@
 | [liketurbo](https://github.com/liketurbo) | Improve TVM Instructions Table Readability | [Issue](https://github.com/ton-society/grants-and-bounties/issues/361) |
 | [Vadim Volodin](https://github.com/polyprogrammist) | TLB Codegen for Node.js | [Issue](https://github.com/ton-society/grants-and-bounties/issues/259) |
 | [Novus Nota](https://github.com/novusnota) | Tree-sitter parser for the Tact language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/302) |
+| [krau5](https://github.com/krau5) | Develop Front-End for TWA Demo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/443) |
