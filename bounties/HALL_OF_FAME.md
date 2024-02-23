@@ -125,5 +125,5 @@
 | [Ilya Smirnov](https://github.com/mainsmirnov), [Alex Cucos](https://github.com/skiezest) | Telegram UI Kit in Figma | [Issue](https://github.com/ton-society/grants-and-bounties/issues/363) |
 | [SeriyBeliy](https://github.com/seriybeliy11) | Development of a Web Application for Visualizing Performance Metrics | [Issue](https://github.com/ton-society/grants-and-bounties/issues/355) |
 | [liketurbo](https://github.com/liketurbo) | Improve TVM Instructions Table Readability | [Issue](https://github.com/ton-society/grants-and-bounties/issues/361) |
-| [Vadim Volodin](https://github.com/polyprogrammist) | TLB Codegen for Node.js | [Issue](https://github.com/ton-society/grants-and-bounties/issues/259) |
+| [Vadim Volodin](https://github.com/polyprogrammist) | TLB Codegen for Typescript | [Issue](https://github.com/ton-society/grants-and-bounties/issues/259) |
 | [Novus Nota](https://github.com/novusnota) | Tree-sitter parser for the Tact language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/302) |
