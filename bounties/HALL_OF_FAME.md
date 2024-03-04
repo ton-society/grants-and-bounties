@@ -129,3 +129,4 @@
 | [Novus Nota](https://github.com/novusnota) | Tree-sitter parser for the Tact language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/302) |
 | [krau5](https://github.com/krau5) | Develop Front-End for TWA Demo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/443) |
 | [Disintar team](https://github.com/disintar) | CEX status monitor | [Issue](https://github.com/ton-society/ton-footsteps/issues/416) |
+| [krau5](https://github.com/krau5) | Bounty for Updating TVM Instruction Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/447) |
