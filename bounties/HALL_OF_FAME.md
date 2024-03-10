@@ -130,5 +130,4 @@
 | [Shon Ness](https://github.com/nessshon) | TON Connect UI for aiogram-based bots | [Issue](https://github.com/ton-society/grants-and-bounties/issues/379) |
 | [krau5](https://github.com/krau5) | Develop Front-End for TWA Demo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/443) |
 | [Disintar team](https://github.com/disintar) | CEX status monitor | [Issue](https://github.com/ton-society/ton-footsteps/issues/416) |
-
 | [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1987153687) |
