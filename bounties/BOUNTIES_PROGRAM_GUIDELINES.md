@@ -47,4 +47,4 @@ Once the bounty task is approved and assigned to an executor - it's ready to be 
 4. Your deliverables submission will be reviewed by community members and the [TON Bounties Committee](link).
 5. If deliverables reviewed and confirm - you will receive:
     - Bounty Reward (X$ paid in TON)
-    - TON Footsteps SBT
+    - TON Bounty SBT
