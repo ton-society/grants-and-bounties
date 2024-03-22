@@ -16,7 +16,7 @@ All the bounty tasks are initially published and discussed on GitHub.
    
 ### Review Stage
 1. The community can comment, discuss, and suggest changes to the proposed bounty task. Make sure you contribute to spreading the word about your new bounty task suggestion - the feedback of the community will ensure the importance of the task.
-2. TON Bounties [**committee**](https://github.com/ton-society/ton-footsteps#ton-footsteps-committee) regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
+2. **TON Bounties committee** regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
 3. After receipt of the label `approved`, the bounty task is approved for implementation but has not yet been assigned to the executor.
 
 ## Get assigned to a bounty task and complete it
@@ -44,7 +44,7 @@ Once the bounty task is approved and assigned to an executor - it's ready to be 
 1. Execute the bounty task.
 2. Submit a comment to your Questbook proposal with a brief guide for the committee to evaluate deliverables.
 3. Submit a Pull Request to the [Hall of Fame](https://github.com/ton-society/grants-and-bounties/blob/main/bounties/HALL_OF_FAME.md) file, providing the wallet address and a link to the bounty with the number (for example, Pull Request https://github.com/ton-society/grants-and-bounties/pull/136).
-4. Your deliverables submission will be reviewed by community members and the [TON Bounties Committee](link).
+4. Your deliverables submission will be reviewed by community members and the **TON Bounties Committee**.
 5. If deliverables reviewed and confirm - you will receive:
     - Bounty Reward (X$ paid in TON)
     - TON Bounty SBT
