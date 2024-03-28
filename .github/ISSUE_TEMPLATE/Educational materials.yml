@@ -34,6 +34,12 @@ body:
     attributes:
       label: "Estimate suggested reward"
       description: "Please approximate the reward size (in $)"
-      placeholder: "Specify the criteria to consider this task completed. Please use checkboxes '- [ ]'"
     validations:
       required: False
+  - type: textarea
+    attributes:
+      label: "Completion Criteria"
+      description: "What criteria needs to be met?"
+      placeholder: "Specify the criteria to consider this task completed. Please use checkboxes '- [ ]'"
+    validations:
+      required: False      
