@@ -99,7 +99,7 @@
 | [ProgramCrafter](https://github.com/ProgramCrafter) | EC Verified Random Function | [Issue](https://github.com/ton-society/ton-footsteps/issues/268) |
 | [Ivan Romanovich](https://github.com/romanovichim) | TON Speedrun | [Issue](https://github.com/ton-society/ton-footsteps/issues/252) |
 | [Yash Garg](https://github.com/yash0501) | Adding Tact language to learnxinyminutes | [Issue](https://github.com/ton-society/ton-footsteps/issues/285) |
-| [Disintar team](https://github.com/tvorogme) | Native python bindings for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/231) |
+| [Disintar team](https://github.com/disintar) | Native python bindings for TON | [Issue](https://github.com/ton-society/ton-footsteps/issues/231) |
 | [Coalus](https://github.com/coalus) | Setup SBT rewards in "TON Hello World" series | [Issue](https://github.com/ton-society/ton-footsteps/issues/279) |
 | [Yash Garg](https://github.com/yash0501) | Ecosystem Map for TON Blockchain Components | [Issue](https://github.com/ton-society/ton-footsteps/issues/292) |
 | [Spite Moriarty](https://github.com/aSpite) | Haktoberfest issues parser | [Issue](https://github.com/ton-society/ton-footsteps/issues/314) |
@@ -112,6 +112,7 @@
 | [Novus Nota](https://github.com/novusnota) | Tact support for the Vim editor | [Issue](https://github.com/ton-society/grants-and-bounties/issues/320) |
 | [Ivan Bridge](https://github.com/deivana), [Gusarich](https://github.com/Gusarich) | Crypto Donate Service (with smart contract) | [Issue](https://github.com/ton-society/grants-and-bounties/issues/305) |
 | [krau5](https://github.com/krau5) | Splitting TVM Instruction Documentation Page | [Issue](https://github.com/ton-society/grants-and-bounties/issues/358) |
+| [coalus](https://github.com/coalus) | Setup SBT rewards in the tonspeedrun.com challenges | [Issue](https://github.com/ton-society/grants-and-bounties/issues/330)
 | [Spite Moriarty](https://github.com/aSpite) | TON Cookbook of Contract Wrappers | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Spite Moriarty](https://github.com/aSpite) | Dominant assurance contract | [Issue](https://github.com/ton-society/grants-and-bounties/issues/318) |
 | [Spite Moriarty](https://github.com/aSpite) | NFT Fractionalization standard | [Issue](https://github.com/ton-society/grants-and-bounties/issues/295) |
@@ -119,3 +120,21 @@
 | [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Maxim Zhidkov](https://github.com/seriybeliy11) | Understanding Compressed NFTs on The TON Blockchain | [Issue](https://github.com/ton-society/grants-and-bounties/issues/424) |
+| [Revuza](https://github.com/LevZed), [shibdev](https://github.com/shibdev) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
+| [Shon Ness](https://github.com/nessshon) | TonAPI SDK for Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/375) |
+| [Spite Moriarty](https://github.com/aSpite) | Enhance Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/360) |
+| [Ilya Smirnov](https://github.com/mainsmirnov), [Alex Cucos](https://github.com/skiezest) | Telegram UI Kit in Figma | [Issue](https://github.com/ton-society/grants-and-bounties/issues/363) |
+| [SeriyBeliy](https://github.com/seriybeliy11) | Development of a Web Application for Visualizing Performance Metrics | [Issue](https://github.com/ton-society/grants-and-bounties/issues/355) |
+| [liketurbo](https://github.com/liketurbo) | Improve TVM Instructions Table Readability | [Issue](https://github.com/ton-society/grants-and-bounties/issues/361) |
+| [Vadim Volodin](https://github.com/polyprogrammist) | TLB Codegen for Typescript | [Issue](https://github.com/ton-society/grants-and-bounties/issues/259) |
+| [Novus Nota](https://github.com/novusnota) | Tree-sitter parser for the Tact language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/302) |
+| [Shon Ness](https://github.com/nessshon) | TON Connect UI for aiogram-based bots | [Issue](https://github.com/ton-society/grants-and-bounties/issues/379) |
+| [krau5](https://github.com/krau5) | Develop Front-End for TWA Demo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/443) |
+| [Disintar team](https://github.com/disintar) | CEX status monitor | [Issue](https://github.com/ton-society/ton-footsteps/issues/416) |
+| [krau5](https://github.com/krau5) | Bounty for Updating TVM Instruction Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/447) |
+| [Shon Ness](https://github.com/nessshon) | Bounty Bridge: Connecting Developers to Bounties Initiatives through Automated Alerts | [Issue](https://github.com/ton-society/grants-and-bounties/issues/438) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1986902167)
+| [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1987153687) |
+| [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427)
+| [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
+| [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
