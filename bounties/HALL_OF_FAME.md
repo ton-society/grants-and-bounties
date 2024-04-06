@@ -3,7 +3,7 @@
 </a>
 
 # Hall of Fame
-| Name | Task | Link |
+| [gregori ] (https://github.com/gregoricordova) | TON wiki |  [Issue] (https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041122532) |
 |------|------|------|
 | [Revuza](https://github.com/LevZed), [Gusarich](https://github.com/Gusarich)   | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
 | [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
