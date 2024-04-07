@@ -26,8 +26,8 @@ jobs:
           config: >
             {
                 "Closing Soon as Not planning": {
-                    "delay": 1209600,
-                    "message": "This issue has been automatically closed due to 14 days of inactivity and lack of the additional information requested. \nPlease feel free to reopen it if you wish to provide further details or require assistance.",
+                    "delay": 432000,
+                    "message": "This issue has been automatically closed due to 5 days of inactivity and lack of the additional information requested. \nPlease feel free to reopen it if you wish to provide further details or require assistance.",
                     "remove_label_on_comment": true,
                     "remove_label_on_close": false
                 }

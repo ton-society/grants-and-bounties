@@ -119,6 +119,7 @@
 | [Spite Moriarty](https://github.com/aSpite) | Create Tact lexer for pygments | [Issue](https://github.com/ton-society/grants-and-bounties/issues/350) |
 | [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
+| [Maxim Zhidkov](https://github.com/seriybeliy11) | Understanding Compressed NFTs on The TON Blockchain | [Issue](https://github.com/ton-society/grants-and-bounties/issues/424) |
 | [Revuza](https://github.com/LevZed), [shibdev](https://github.com/shibdev) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Shon Ness](https://github.com/nessshon) | TonAPI SDK for Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/375) |
 | [Spite Moriarty](https://github.com/aSpite) | Enhance Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/360) |
@@ -130,4 +131,11 @@
 | [Shon Ness](https://github.com/nessshon) | TON Connect UI for aiogram-based bots | [Issue](https://github.com/ton-society/grants-and-bounties/issues/379) |
 | [krau5](https://github.com/krau5) | Develop Front-End for TWA Demo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/443) |
 | [Disintar team](https://github.com/disintar) | CEX status monitor | [Issue](https://github.com/ton-society/ton-footsteps/issues/416) |
+| [krau5](https://github.com/krau5) | Bounty for Updating TVM Instruction Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/447) |
+| [Shon Ness](https://github.com/nessshon) | Bounty Bridge: Connecting Developers to Bounties Initiatives through Automated Alerts | [Issue](https://github.com/ton-society/grants-and-bounties/issues/438) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1986902167)
+| [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1987153687) |
+| [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427)
+| [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
+| [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
 | [timcom-pro](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041233527) |
