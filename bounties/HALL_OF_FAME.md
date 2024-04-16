@@ -138,3 +138,4 @@
 | [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427)
 | [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
 | [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
+| [Novus Nota](https://github.com/novusnota) | Packaging of existing Tact and FunC language servers | [Issue](https://github.com/ton-society/grants-and-bounties/issues/352) |
