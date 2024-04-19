@@ -118,7 +118,22 @@ The main criterion for this category is the presence of social mechanics and thu
 
 ## 4️⃣  Developer Education 
 
-[to be filled soon]
+This grant category is dedicated to supporting educational programs that train developers to build on the TON blockchain. We focus on courses that are both informative and engaging, using straightforward language in programming like Tact and FunC. Additionally, we can support Mini Apps and Social Mechanics courses to further expand developer skills and application possibilities on the platform.
+
+### Categories:
+
+1. **Ecosystem Projects:** For protocols within the ecosystem looking to train developers on creating new products on their platforms.
+2. **External Teams:** Encouraging teams outside the ecosystem to learn and build on TON.
+
+### Requirements:
+
+- **Initial Research:** Applicants must demonstrate a solid understanding of TON Blockchain and Telegram Mini Apps ecosystem and its unique features.
+- **Use of Fundamental Concepts:** Programs should incorporate the core principles of TON Blockchain architecture.
+- **Detailed Curriculum:** Proposals must include a well-detailed curriculum that clearly outlines the learning objectives and modules.
+- **Clear GTM Strategy:** Applicants should present a clear go-to-market strategy with a detailed plan to achieve over 1000 enrollments.
+- **SBT for Completion:** Course creators will issue Soul-Bound Tokens (SBTs) to users who successfully complete the course, using provided tools and framework.
+
+**Grant size:** **up to $20K are available for launching the first educational product, with potential for continued support based on success and impact.**
 
 
 ## 5️⃣ Other
