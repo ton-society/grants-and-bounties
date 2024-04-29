@@ -28,11 +28,11 @@ This category includes but is not limited to:
 - **E-commerce:** marketplaces of digital and physical goods with viral social tools for onboarding and retaining the user like sharing, gifting, or group buying (e.g. Kaikai-like platforms)
 - **Utility**: daily use TMA that fulfil some functional needs and necessarily use web3 to improve the UX of daily use cases (e.g., Calendar, Task tracker)
 - **Community & Brand management**: tools aimed at engaging communities inside Telegram (e.g., Loyalty programs, Ticketing)
-- **Onboarding platforms:** Telegram Mini Apps that provide a simple way to web3 for a Telegram user through the use of @wallet and other TON wallets and performing simple actions in other TON DApps (e.g., Quests, Educational apps).
+- **Onboarding platforms:** Telegram Mini Apps that provide a simple way into web3 through the use of [@wallet](https://t.me/wallet) and/or self-custody TON wallets and through engaging users to perform simple tasks (e.g., Quests, Educational apps).
 
 ### 1.1. Initial Deployment
 
-Directed to developing and deploying the Proof of Concept with the integration of [@wallet](https://wallet.tg/), [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview), and/or [Wallet Pay](https://pay.wallet.tg/).
+Directed to developing and deploying the Proof of Concept with the integration of [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview) and/or @wallet ([Wallet Pay](https://pay.wallet.tg/)).
 
 **Grant size: up to $10K in TON**
 
@@ -109,10 +109,7 @@ The size of grant for this category depends on the TVL of the protocol on the ch
 
 ## 3️⃣ GameFi
 
-The main criterion for this category is the presence of social mechanics and thus the potential to attract and retain the mass audience of players. There are two subcategories of games we are ready to support:
-
-- **Social games in the form of a TMA** with viral mechanics and features like sharing with friends, leaderboards, group challenges, and notifications.
-- **Standalone games** (PC / mobile), preferably with strong social mechanics too
+This category is designed for Web3 games with easy onboarding, viral social mechanics, referral programs, elements of competition (squads, leaderboards, group challenges) and exciting gameplay. While the focus is on games in the form of Telegram Mini Apps, standalone games for PC or mobile are welcome to apply too. 
 
 **Grant size: up to $10K in TON for initial deployment and up to $50K in TON for an existing game with sustainable metrics.**
 
