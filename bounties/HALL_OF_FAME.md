@@ -138,5 +138,4 @@
 | [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427)
 | [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
 | [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
-| [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256) |
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2094746150) | 
