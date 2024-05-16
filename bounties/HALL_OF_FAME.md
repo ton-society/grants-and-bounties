@@ -137,5 +137,6 @@
 | [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1987153687) |
 | [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427)
 | [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
+| [stenolog](https://github.com/stenolog) | Documentation for main TON repo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/266) |
 | [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
 | [Ilya Smirnov](https://github.com/mainsmirnov) | UI Components Library for Telegram Mini Apps | [Issue](https://github.com/ton-society/grants-and-bounties/issues/364) |
