@@ -142,6 +142,7 @@
 | [Alireza Tabatabaeian](https://github.com/alirezatabatabaeian) | Enhance Tact Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/406) |
 | [stenolog](https://github.com/stenolog) | Documentation for main TON repo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/266) |
 | [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
+| [Shon Ness](https://github.com/nessshon) | Telegram bot for controlling access to private chats via Jetton and/or NFT | [Issue](https://github.com/ton-society/grants-and-bounties/issues/555) |
 | [Oleg Baranov](https://github.com/xssnick) | Highload Tonconnect Bridge | [Repo](https://github.com/ton-connect/bridge2) |
 | [Alexto-IP](https://github.com/Alexto-IP) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2037310415) |
 | [sofaaaaart](https://github.com/sofaaaaart) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2037214297) |
