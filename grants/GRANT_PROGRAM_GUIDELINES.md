@@ -170,7 +170,7 @@ General requirements include the following:
 
 - In case of our interest, we may **contact the team on Telegram** to have a more in-depth dialogue about their product and potential support from our side. The main takeaways and agreements will be reflected in the comment section of the original proposal on Questbook.
 - In case we ask an applicant to resubmit the proposal, enriching it with more details, we would expect our request to be completed **within 5 working days** or reject the original proposal otherwise.
-- The accepted Questbook proposal shall have the legal force. If the requirements set forth in these guidelines are not met by the team, the grant committee has the right to cancel the grant.
+- If the requirements set forth in these guidelines are not met by the team, the grant committee has the right to cancel the grant.
 - A grant **may be cancelled** if the team fails to meet the deadlines or is not responsive and collaborative; if the delivered milestones do not correspond to what was originally agreed upon; as well as if the UX/UI of the presented product is below the average level required by the grant committee.
 - Teams commit to delivering each milestone in no more than **30 days**, and the entire grant scope - in no longer than **6 months** from the moment of approval.
 - Teams receive funds **upon the completion of each milestone**. No advanced payment is envisioned by this grant program.
