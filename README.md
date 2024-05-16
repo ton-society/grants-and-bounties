@@ -9,23 +9,22 @@ Available support initiatives are of two kinds - **Grants** and **Bounties**. Th
 
 ## **Grants program**
 
-Our grants program is dedicated to support teams and projects that build full-fledged products:
-- Open-source technical projects
-- Unique commercial use cases with a compelling value proposition
-- Integration with other ecosystems' players, promoting collaboration and interoperability
+The TON Grants Program is dedicated to supporting teams and projects that build business and technical tools necessary to strengthen the TON ecosystem, attract the massive web2 audience of Telegram and beyond, and make web3 accessible and simple for all.
 
-An overview of existing TON projects can be found in [TON Ecosystem Map](https://github.com/ton-society/ecosytem-map). You might be also interested to get familiar with our [areas of interest](grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests) - list of categories and types of projects we would potentially be interested in providing grant support to.
+**Priority Grant Categories:**
 
-On our [Questbook page](https://questbook.app/dashboard/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10), you'll find both a comprehensive list of submitted grant proposals and a form to [**submit your own application**](https://questbook.app/proposal_form/?grantId=0xe92b011b2ecb97dbe168c802d582037e28036f9b&chainId=10&newTab=true). Please review the [Grants Program Guidelines](/grants/GRANT_PROGRAM_GUIDELINES.md) and [Common Pitfalls](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md#avoiding-common-pitfalls-in-grant-proposals) thoroughly before submitting your proposal.
+- Telegram Mini Apps (TMA): Social Web3 Use Cases inside Telegram;
+- GameFi: Social engaging games designed to captivate a wide player base;
+- DeFi: Supporting innovative projects to advance TON's financial ecosystem;
+- Other unique ideas.
 
-**❗️ Note for game developers:**
-We are actively supporting the gaming landscape on TON Ecosystem. Our core support in this field is channeled through our specialized [GameFi center](https://ton.org/gamefi), which provides technical support, marketing aid, and investment opportunities. In case your grant proposal was rejected - you might be still eligible for the support from GameFi center.
+### Applying for a Grant:
 
-## **Telegram Web3 Grants**
+An overview of existing TON projects can be found in the [TON Ecosystem Map](https://github.com/ton-society/ecosytem-map). You might be also interested to get more details on the current [areas of interest](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests) - the list of categories and examples of projects we are more likely to support through the program herein.
 
-Telegram Web Apps is a new approach for businesses to engage with audiences through a convenient user interface, offering a user-friendly experience directly within Telegram. We encourage and support developers building within the Telegram Web3 Ecosystem. Our grants program is meant to support projects that utilize Web3 infrastructure based on TON Blockchain, with examples like [@wallet](https://wallet.tg/), [Wallet Pay](https://pay.wallet.tg/), and [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview).
+On our [**Questbook page**](https://questbook.app/dashboard/?grantId=65c7836df27e2e1702d2d279&chainId=10), you'll find both a comprehensive list of submitted grant proposals and a form to [**submit your own application**](https://questbook.app/proposal_form/?newTab=true&grantId=65c7836df27e2e1702d2d279&chainId=10). Please review the [**Grants Program Guidelines**](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md) before submitting your proposal.
 
-Get familiar with [program guidelines](https://blog.ton.org/ton-foundation-announces-telegram-web3-grants) and [submit a proposal](https://questbook.app/proposal_form/?grantId=0x3d9a26d083419d0d6cb0c5d9aed527698254b3ea&chainId=10&newTab=true).
+While our grant program aims to support a broad range of innovative projects, it's important to recognize that not every application will be accepted. If your application does not secure grant support, be assured our support does not end there. We're here to offer assistance in other valuable ways, including marketing, partnerships, and participation in our TON Accelerator Program. We invite you to explore our [Ecosystem Support Map](https://www.notion.so/TON-Ecosystem-Support-for-Startups-4258e2cb2e06444b8bfd5904c6b9b481?pvs=21) for further guidance and support.
 
 ## **Bounties program**
 

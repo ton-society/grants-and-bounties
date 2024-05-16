@@ -16,7 +16,7 @@ All the bounty tasks are initially published and discussed on GitHub.
    
 ### Review Stage
 1. The community can comment, discuss, and suggest changes to the proposed bounty task. Make sure you contribute to spreading the word about your new bounty task suggestion - the feedback of the community will ensure the importance of the task.
-2. **TON Bounties committee** regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
+2. TON Bounties committee regularly reviews proposals. The committee labels an issue `approved` if approved. Otherwise, they close it.
 3. After receipt of the label `approved`, the bounty task is approved for implementation but has not yet been assigned to the executor.
 
 ## Get assigned to a bounty task and complete it
