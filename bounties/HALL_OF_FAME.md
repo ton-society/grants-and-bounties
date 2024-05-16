@@ -119,6 +119,7 @@
 | [Spite Moriarty](https://github.com/aSpite) | Create Tact lexer for pygments | [Issue](https://github.com/ton-society/grants-and-bounties/issues/350) |
 | [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
+| [Maxim Zhidkov](https://github.com/seriybeliy11) | Understanding Compressed NFTs on The TON Blockchain | [Issue](https://github.com/ton-society/grants-and-bounties/issues/424) |
 | [Revuza](https://github.com/LevZed), [shibdev](https://github.com/shibdev) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Shon Ness](https://github.com/nessshon) | TonAPI SDK for Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/375) |
 | [Spite Moriarty](https://github.com/aSpite) | Enhance Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/360) |
@@ -137,3 +138,5 @@
 | [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427)
 | [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
 | [stenolog](https://github.com/stenolog) | Documentation for main TON repo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/266) |
+| [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
+
