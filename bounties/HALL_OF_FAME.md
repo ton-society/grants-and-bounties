@@ -3,7 +3,6 @@
 </a>
 
 # Hall of Fame
-| [gregori ] (https://github.com/gregoricordova) | TON wiki |  [Issue] (https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041122532) |
 |------|------|------|
 | [Revuza](https://github.com/LevZed), [Gusarich](https://github.com/Gusarich)   | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
 | [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
@@ -138,3 +137,4 @@
 | [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427)
 | [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
 | [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
+| [gregori ] (https://github.com/gregoricordova) | TON wiki |  [Issue] (https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041122532) |
