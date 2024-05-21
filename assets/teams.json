@@ -1,0 +1,188 @@
+{
+  "outsourcing_teams": [
+    {
+      "team_name": "Astralyx",
+      "summary": "Company with big experience in TON and other chains development. You can ask us to create design, Telegram Mini Application (TMA), website, anything.",
+      "workstreams": [
+        "TON smart-contracts development (including audits & tests)",
+        "Web 2.0 & Web 3.0 development",
+        "design, arts, renting leads for projects"
+      ],
+      "projects": [
+        {
+          "name": "XJetSwapBot",
+          "description": "Frontend, design",
+          "link": "http://t.me/xjetswapbot"
+        },
+        {
+          "name": "Lockup Jettons Contract",
+          "description": "Smart contract, web interface, tests",
+          "link": "http://github.com/astralyxdev/lockup-jettons-contract"
+        },
+        {
+          "name": "TON Proxy",
+          "description": "TON Proxy extension, one of the first",
+          "link": "http://github.com/astralyxdev/ton-proxy"
+        },
+        {
+          "name": "DevDAO Store",
+          "description": "Front-end, design",
+          "link": "http://store.devdao.io"
+        },
+        {
+          "name": "Scaleton.io",
+          "description": "Landing, frontend, design",
+          "link": "http://scaleton.io"
+        },
+        {
+          "name": "Burn SBT NFT Service",
+          "description": "Service for burning SBT NFT in TON, frontend, design",
+          "link": "http://burn.astralyx.dev"
+        }
+      ],
+      "contacts": {
+        "website": "http://astralyx.dev",
+        "email": "contact@astralyx.dev"
+      }
+    },
+    {
+      "team_name": "Blockczech R&D Lab",
+      "summary": "Web3.0 Software House & Startup Studio with a strong focus on blockchain-based solutions for games and eSports.",
+      "workstreams": [
+        "dApps",
+        "TMA Development",
+        "blockchain games",
+        "Integration"
+      ],
+      "projects": [
+        {
+          "name": "TCG World",
+          "link": "http://TCG.world"
+        },
+        {
+          "name": "Cryptomeda",
+          "link": "http://cryptomeda.tech"
+        },
+        {
+          "name": "Liithos",
+          "link": "http://liithos.com"
+        },
+        {
+          "name": "X.LA Contracts",
+          "link": "http://x.la/contracts/"
+        },
+        {
+          "name": "About Blockczech R&D Lab",
+          "link": "https://docs.google.com/presentation/d/1htMH1ihm31wQSn08ZziFfK6NpbPSHA3M/edit?usp=sharing&ouid=105247529013711719883&rtpof=true&sd=true"
+        }
+      ],
+      "contacts": {
+        "website": "http://blockczech.io",
+        "telegram": "https://t.me/blockczech"
+      }
+    },
+    {
+      "team_name": "EvaCodes",
+      "summary": "EvaCodes is a top Eastern European blockchain development company with teams located in Ukraine, Armenia, and Poland. The company comprises over 50 skilled developers who have delivered 60+ web3 solutions, including web3 banking solutions, L1 blockchains, and web3 infrastructure.",
+      "workstreams": [
+        "DeFi",
+        "Crypto Wallets",
+        "NFT-based solutions"
+      ],
+      "projects": [
+        {
+          "name": "Alium Finance",
+          "link": "https://alium.finance/"
+        },
+        {
+          "name": "Trush",
+          "link": "https://trush.io/"
+        },
+        {
+          "name": "Konsta Network",
+          "link": "https://konsta.network/"
+        }
+      ],
+      "contacts": {
+        "email": "ton@evacodes.com",
+        "website": "https://evacodes.com/",
+        "telegram": "https://t.me/salesevacodes"
+      }
+    },
+    {
+      "team_name": "Coinvent",
+      "summary": "Coinvent is a dedicated outsource development team, passionately committed to creating successful projects. Their expertise ranges from crafting simple bots to developing complex DeFi protocols.",
+      "workstreams": [
+        "Smart-contracts",
+        "DeFi, NFTs",
+        "dApps, Telegram Mini Apps",
+        "Regular Web2",
+        "Telegram Bots"
+      ],
+      "projects": [
+        {
+          "name": "Tonraffles Lock Module",
+          "description": "Smart-contract, front-end",
+          "link": "https://tonraffles.app/lock"
+        },
+        {
+          "name": "Tonraffles NFT Launchpad",
+          "description": "Smart-contracts",
+          "link": "https://tonraffles.app/nft/launchpad"
+        },
+        {
+          "name": "OOIA Shopping Cart Feature",
+          "description": "Smart-contract",
+          "link": "https://testnet.ooia.art/"
+        },
+        {
+          "name": "Monaki NFT Staking",
+          "description": "Smart-contracts",
+          "link": "https://www.monaki.life/"
+        }
+      ],
+      "contacts": {
+        "website": "https://coinvent.dev",
+        "telegram": "https://t.me/coinvent_dev",
+        "email": "contact@coinvent.dev"
+      }
+    },
+    {
+      "team_name": "softstack",
+      "summary": "Softstack is a leading service provider of comprehensive Web3 solutions, since 2017, with a focus on software development and smart contract auditing. Made in Germany",
+      "workstreams": [
+        "Smart Contract & dApp Development",
+        "Digital Asset Wallets",
+        "Telegram Mini-Apps & Bots",
+        "Cybersecurity (Smart Contract Audits, Penetration Testing)"
+      ],
+      "projects": [
+        {
+          "name": "DeGods",
+          "link": "https://degods.com"
+        },
+        {
+          "name": "Tixbase",
+          "link": "https://tixbase.com"
+        },
+        {
+          "name": "TMRW Foundation",
+          "link": "https://tmrw.com"
+        },
+        {
+          "name": "Bitcoin.com",
+          "link": "https://bitcoin.com"
+        },
+        {
+          "name": "Coinlink Finance",
+          "link": "https://coinlink.finance"
+        }
+      ],
+      "contacts": {
+        "email": "hello@softstack.io",
+        "website": "https://softstack.io/",
+        "telegram": "https://t.me/yannikheinze"
+      }
+    }
+  ]
+}
