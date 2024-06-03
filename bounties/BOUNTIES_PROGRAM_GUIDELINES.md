@@ -44,7 +44,7 @@ Once the bounty task is approved and assigned to an executor - it's ready to be 
 1. Execute the bounty task.
 2. Submit a comment to your Questbook proposal with a brief guide for the committee to evaluate deliverables.
 3. Submit a Pull Request to the [Hall of Fame](https://github.com/ton-society/grants-and-bounties/blob/main/bounties/HALL_OF_FAME.md) file, providing the wallet address and a link to the bounty with the number (for example, Pull Request https://github.com/ton-society/grants-and-bounties/pull/136).
-4. Your deliverables submission will be reviewed by community members and the [TON Bounties Committee](link).
+4. Your deliverables submission will be reviewed by community members and the **TON Bounties Committee**.
 5. If deliverables reviewed and confirm - you will receive:
     - Bounty Reward (X$ paid in TON)
     - TON Bounty SBT

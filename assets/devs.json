@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "name": "Alice Smith",
+      "contacts": "alice.smith@example.com",
+      "skills": ["Smart Contracts", "DApps", "NFTs"],
+      "github": "https://github.com/alicesmith",
+      "resume": "https://www.linkedin.com/in/alicesmith",
+      "portfolio": "https://docs.google.com/document/d/1A2B3C4D5E6F7G8H9I10",
+      "achievements": [
+        "Won the Best DApp Award at TOL Hackathon 2024"
+      ]
+    },
+    {
+      "name": "Charlie Brown",
+      "contacts": "charlie.brown@example.com",
+      "skills": ["Blockchain", "Smart Contracts", "TMA"],
+      "github": "https://github.com/charliebrown",
+      "resume": "https://www.linkedin.com/in/charliebrown",
+      "portfolio": "https://docs.google.com/document/d/3C4D5E6F7G8H9I10J11K12",
+      "achievements": [
+        "Developed a successful DeFi platform with 5000 active users",
+        "Winner of TON Smart Challenge 1 (5th place out of 220)"
+      ]
+    }
+  ]
+}
