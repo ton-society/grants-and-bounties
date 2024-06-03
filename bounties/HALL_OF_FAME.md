@@ -165,3 +165,4 @@
 | [Josi Kie](https://github.com/josikie) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090785208)
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256)
 | [Logvik]|(https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598))
+| [Josi Kie](https://github.com/josikie) | TON Wiki | [Issue] (https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2144617203)
