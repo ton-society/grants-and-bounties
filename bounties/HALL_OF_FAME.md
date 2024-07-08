@@ -161,3 +161,4 @@
 | [Ilya Smirnov](https://github.com/mainsmirnov) | UI Components Library for Telegram Mini Apps | [Issue](https://github.com/ton-society/grants-and-bounties/issues/364) |
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598)) |
+| [Andrew](https://github.com/kayx86) | Snapshot NFT tool  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/614) |
