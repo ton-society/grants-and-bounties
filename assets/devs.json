@@ -39,6 +39,51 @@
         "email": "charlie.brown@example.com",
         "github": "https://github.com/charliebrown"
       }
+    },
+    {
+      "name": "Alice Smith",
+      "summary": "Won the Best DApp Award at TOL Hackathon 2024",
+      "tags": [
+        "Smart-contracts",
+        "dApps",
+        "NFTs",
+        "Design",
+        "Web 2.0",
+        "Web 3.0 development"
+      ],
+      "projects": [
+        {
+          "name": "Awesome project",
+          "link": "https://example.com"
+        }
+      ],
+      "contacts": {
+        "website": "https://www.linkedin.com/in/alicesmith",
+        "email": "alice.smith@example.com",
+        "github": "https://github.com/alicesmith"
+      }
+    },
+    {
+      "name": "Charlie Brown",
+      "summary": "Developed a successful DeFi platform with 5000 active users. Winner of TON Smart Challenge 1 (5th place out of 220)",
+      "tags": [
+        "Smart-contracts",
+        "Telegram Mini Apps",
+        "Blockchain",
+        "Integration",
+        "Cybersecurity"
+      ],
+      "projects": [
+        {
+          "name": "Awesome project",
+          "link": "https://example.com"
+        }
+      ],
+      "contacts": {
+        "website": "https://www.linkedin.com/in/charliebrown",
+        "email": "charlie.brown@example.com",
+        "github": "https://github.com/charliebrown"
+      }
     }
   ]
 }
