@@ -1,5 +1,5 @@
 <a href="https://ton.org/">
-	<img width="100%" src="/assets/thin-header.png" alt="TON Ecosystem" />
+| [OlesiaBil](https://github.com/OlesiaBil) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2267178884)
 </a>
 
 # Hall of Fame
