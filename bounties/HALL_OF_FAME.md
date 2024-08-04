@@ -166,4 +166,4 @@
 | [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598) |
 | [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2143842056) |
 | [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2209262059) |
-
+| [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2267329702) |
