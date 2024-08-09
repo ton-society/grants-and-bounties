@@ -174,7 +174,7 @@ The Grants process generally looks as follows:
 2. If the Grants team deems that the proposal does not meet the criteria set in the section above or falls outside of the current grant policy, an official rejection with an explanation for the decision is published on Questbook, and the application is closed.
 3. In case of interest towards the proposal, the Grants team asks for additional details directly on Questbook or, alternatively, contacts the applicant on Telegram and/or invites to a zoom call.
 4. If the applicant does not respond within **5 working days**, the proposal gets rejected. The applicant can always resubmit their proposal in the future.
-5. The Grants team makes the final evaluation of the proposal and communicates the decision  on Questbook and to the team directly.
+5. The Grants team makes the final evaluation of the proposal and communicates the decision on Questbook and to the team directly.
 6. In case of a positive outcome, the applicant shall **sign an official grant agreement** and undertake to follow [TON Grants Rules,](https://www.notion.so/ton-org/TON-Grants-Rules-4548acab386a4fc7b086aba53333e917?pvs=4) and the proposal gets officially approved.
 7. Upon the completion of a milestone, the grantee shares the results in the **Telegram group** and makes a respective comment in the original proposal on **Questbook**. The Grants team makes QA (Quality Assurance) and checks whether the submitted version of the product corresponds to the scope of the milestone.
 
