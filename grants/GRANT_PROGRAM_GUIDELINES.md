@@ -137,7 +137,7 @@ This grant category is dedicated to supporting educational programs that train d
 
 ## 5️⃣ Other
 
-This broad category consists of open-source technical projects; commercial projects that improve the TON infrastructure, including the deployment and interaction across DApps and Telegram Mini Apps, and products of other verticals (trading bots, NFT tooling, AI, etc). 
+This broad category consists of open-source technical projects; commercial projects that improve the TON infrastructure, including the deployment and interaction across DApps and Telegram Mini Apps, and products of other verticals (NFT tooling, AI, etc). 
 
 We kindly ask the teams applying for this grant category to do very thorough research on the current infrastructural & business landscape of TON before submitting an application. Make sure your solution is technically feasible and can greatly enhance the ecosystem.
 
