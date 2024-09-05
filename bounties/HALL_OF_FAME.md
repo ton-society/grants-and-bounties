@@ -174,3 +174,4 @@
 | [Gusarich](https://github.com/Gusarich) | A series of improvements to Tact Language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/384) |
 | [ddiepri](https://github.com/ddiepri) | Translation of the documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2254094532) |
 | [TownSquare](https://github.com/TownSquareXYZ) | Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717) |
+| [l00l00](https://github.com/l00l00) | TON WIKI | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2330211734)) |
