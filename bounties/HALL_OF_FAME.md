@@ -166,6 +166,7 @@
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598) |
 | [mitinarseny](https://github.com/mitinarseny) | TL-B serialization in Rust | [Issue #444](https://github.com/ton-society/grants-and-bounties/issues/444) |
+
 | [Shon Ness](https://github.com/nessshon) | Telegram bot for destroying SBT NFT | [Issue](https://github.com/ton-society/grants-and-bounties/issues/644) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598)) |
 | [Shon Ness](https://github.com/nessshon) | Guide to Working with NFTs on Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/648) |
@@ -174,3 +175,4 @@
 | [Gusarich](https://github.com/Gusarich) | A series of improvements to Tact Language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/384) |
 | [ddiepri](https://github.com/ddiepri) | Translation of the documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2254094532) |
 | [TownSquare](https://github.com/TownSquareXYZ) | Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717) |
+[Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2331138309)
