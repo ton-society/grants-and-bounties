@@ -49,4 +49,4 @@ Development of smartcontracts that have hign demand and can be reused by numerou
 
 We truly appreciate our community contributors. As a token of our gratitude, bounties program contributors receive a spot in the [**Hall of Fame**](/bounties/HALL_OF_FAME.md) and an exclusive TON Footsteps SBT. 
 
-There is a big history behind our bounties program. **TON Footsteps** title for the honorable SBT is inherited from the historical name of our bounties program - TON Footsteps. We were used to  call those community contributions "Footsteps" as they are actuall small steps on a big journey of our great TON Ecosystem. Don't miss your chance to become part of this history!
+There is a big history behind our bounties program. **TON Footsteps** title for the honorable SBT is inherited from the historical name of our bounties program - TON Footsteps. We were used to  call those community contributions "Footsteps" as they are actually small steps on a big journey of our great TON Ecosystem. Don't miss your chance to become part of this history!
