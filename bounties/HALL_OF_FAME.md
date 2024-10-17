@@ -3,8 +3,8 @@
 </a>
 
 # Hall of Fame
-| Name | Task | Link |
-|------|------|------|
+| Contributor | Bounty | Link to Issue |
+| :----------- | :------ | :------------ |
 | [Revuza](https://github.com/LevZed), [Gusarich](https://github.com/Gusarich)   | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
 | [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 | [Oleg Baranov](https://github.com/xssnick) | Soulbound NFT's | [Issue](https://github.com/ton-society/ton-footsteps/issues/23) |
@@ -119,6 +119,7 @@
 | [Spite Moriarty](https://github.com/aSpite) | Create Tact lexer for pygments | [Issue](https://github.com/ton-society/grants-and-bounties/issues/350) |
 | [Purple Guy](https://github.com/purpleguy99) | ADNL over TCP implementation in C# | [Issue](https://github.com/ton-society/grants-and-bounties/issues/337) |
 | [Revuza](https://github.com/LevZed) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
+| [Maxim Zhidkov](https://github.com/seriybeliy11) | Understanding Compressed NFTs on The TON Blockchain | [Issue](https://github.com/ton-society/grants-and-bounties/issues/424) |
 | [Revuza](https://github.com/LevZed), [shibdev](https://github.com/shibdev) | TON Cookbook examples | [Issue](https://github.com/ton-society/grants-and-bounties/issues/306) |
 | [Shon Ness](https://github.com/nessshon) | TonAPI SDK for Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/375) |
 | [Spite Moriarty](https://github.com/aSpite) | Enhance Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/360) |
@@ -130,4 +131,48 @@
 | [Shon Ness](https://github.com/nessshon) | TON Connect UI for aiogram-based bots | [Issue](https://github.com/ton-society/grants-and-bounties/issues/379) |
 | [krau5](https://github.com/krau5) | Develop Front-End for TWA Demo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/443) |
 | [Disintar team](https://github.com/disintar) | CEX status monitor | [Issue](https://github.com/ton-society/ton-footsteps/issues/416) |
-| [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395)
+| [krau5](https://github.com/krau5) | Bounty for Updating TVM Instruction Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/447) |
+| [Shon Ness](https://github.com/nessshon) | Bounty Bridge: Connecting Developers to Bounties Initiatives through Automated Alerts | [Issue](https://github.com/ton-society/grants-and-bounties/issues/438) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1986902167)
+| [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1987153687) |
+| [Maxim Zhidkov](https://github.com/seriybeliy11) | The cNFT Standard and Associated Risks | [Issue](https://github.com/ton-society/grants-and-bounties/issues/522) |
+| [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
+| [Alireza Tabatabaeian](https://github.com/alirezatabatabaeian) | Exercism FunC Track Examples Part 1 | [Issue](https://github.com/ton-society/grants-and-bounties/issues/332) |
+| [Alireza Tabatabaeian](https://github.com/alirezatabatabaeian) | Exercism FunC Track Examples Part 2 | [Issue](https://github.com/ton-society/grants-and-bounties/issues/333) |
+| [Alireza Tabatabaeian](https://github.com/alirezatabatabaeian) | Enhance Tact Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/406) |
+| [stenolog](https://github.com/stenolog) | Documentation for main TON repo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/266) |
+| [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
+| [nerzh](https://github.com/nerzh) | Swift SDK For TON | [Issue](https://github.com/ton-society/grants-and-bounties/issues/309) |
+| [ElsbetTheOne](https://github.com/ElsbetTheOne) | Ton Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041157629), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2094366269) |
+| [Shon Ness](https://github.com/nessshon) | Telegram bot for controlling access to private chats via Jetton and/or NFT | [Issue](https://github.com/ton-society/grants-and-bounties/issues/555) |
+| [Oleg Baranov](https://github.com/xssnick) | Highload Tonconnect Bridge | [Repo](https://github.com/ton-connect/bridge2) |
+| [Alexto-IP](https://github.com/Alexto-IP) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2037310415) |
+| [sofaaaaart](https://github.com/sofaaaaart) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2037214297), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2094087310) |
+| [Marik8888](https://github.com/Marik8888) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2039440764)
+| [Sibirli](https://github.com/Sibirli) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2039564919)
+| [Yumik](https://github.com/yumik229) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2034933852) |
+| [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041233527),  [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090344793), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427) |
+| [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2094746150) |
+| [Frenchchocolatine](https://github.com/frenchchoco) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2035312693), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090434901) |
+| [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041150045) |
+| [gregori](https://github.com/gregoricordova) | TON wiki |  [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041122532) |
+| [DrzhknSrg](https://github.com/DrzhknSrg) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2035260604) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2033182693) |
+| [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2033059321) |
+| [Ilya Smirnov](https://github.com/mainsmirnov) | UI Components Library for Telegram Mini Apps | [Issue](https://github.com/ton-society/grants-and-bounties/issues/364) |
+| [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256)
+| [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598)|
+| [ProgramCrafter](https://github.com/ProgramCrafter) | Create graphs describing TON contract systems | [Issue](https://github.com/ton-society/grants-and-bounties/issues/467) |
+| [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256) |
+| [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598) |
+| [mitinarseny](https://github.com/mitinarseny) | TL-B serialization in Rust | [Issue #444](https://github.com/ton-society/grants-and-bounties/issues/444) |
+| [Shon Ness](https://github.com/nessshon) | Telegram bot for destroying SBT NFT | [Issue](https://github.com/ton-society/grants-and-bounties/issues/644) |
+| [Shon Ness](https://github.com/nessshon) | Guide to Working with NFTs on Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/648) |
+| [Andrew](https://github.com/kayx86) | Snapshot NFT tool  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/614) |
+| [Airam](https://github.com/AiramGol) | Schemes Upgrade for TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/616) |
+| [Gusarich](https://github.com/Gusarich) | A series of improvements to Tact Language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/384) |
+| [ddiepri](https://github.com/ddiepri) | Translation of the documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2254094532) |
+| [TownSquare](https://github.com/TownSquareXYZ) | Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717) |
+| [Logvik](https://github.com/logvik) | Support Tact v1.4.1 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/673) |
+| [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
+| [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
