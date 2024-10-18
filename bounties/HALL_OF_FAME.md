@@ -175,3 +175,4 @@
 | [TownSquare](https://github.com/TownSquareXYZ) | Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.4.1 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/673) |
 | [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
+| [Vladislav Kibenko](https://github.com/heyqbnk), [Dmitry Nischeta](https://github.com/dnischeta) | CLI utility to initialize a Telegram Mini Apps application | [Issue](https://github.com/ton-society/grants-and-bounties/issues/460) |
