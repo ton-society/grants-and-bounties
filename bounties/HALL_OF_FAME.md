@@ -134,6 +134,7 @@
 | [krau5](https://github.com/krau5) | Bounty for Updating TVM Instruction Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/447) |
 | [Shon Ness](https://github.com/nessshon) | Bounty Bridge: Connecting Developers to Bounties Initiatives through Automated Alerts | [Issue](https://github.com/ton-society/grants-and-bounties/issues/438) |
 | [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1986902167)
+| [pizza-777](https://github.com/pizza-777) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2458186582)
 | [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1987153687) |
 | [Maxim Zhidkov](https://github.com/seriybeliy11) | The cNFT Standard and Associated Risks | [Issue](https://github.com/ton-society/grants-and-bounties/issues/522) |
 | [IanX@OpenBuild](https://github.com/jueduizone) | TON and Tact Chinese education materials | [Issue](https://github.com/ton-society/grants-and-bounties/issues/419) |
