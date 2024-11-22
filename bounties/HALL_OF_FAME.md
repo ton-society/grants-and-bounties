@@ -223,6 +223,7 @@
 | [VGRichi](https://github.com/VGRichi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2202174438) |
 | [Josi Kie](https://github.com/josikie) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2144617203)
 | [mitinarseny](https://github.com/mitinarseny) | TL-B serialization in Rust | [Issue #444](https://github.com/ton-society/grants-and-bounties/issues/444) |
+
 | [Shon Ness](https://github.com/nessshon) | Telegram bot for destroying SBT NFT | [Issue](https://github.com/ton-society/grants-and-bounties/issues/644) |
 | [Shon Ness](https://github.com/nessshon) | Guide to Working with NFTs on Python | [Issue](https://github.com/ton-society/grants-and-bounties/issues/648) |
 | [Andrew](https://github.com/kayx86) | Snapshot NFT tool  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/614) |
@@ -266,6 +267,7 @@
 | [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2323285524) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.4.1 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/673) |
 | [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
+| [ChieftanM](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2394491141) |
 | [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2390737493) |
 | [Shon Ness](https://github.com/nessshon) | Tonutils - Python SDK for TON | [Issue](https://github.com/ton-society/grants-and-bounties/issues/773) |
 | [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2389752947) |
