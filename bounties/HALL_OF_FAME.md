@@ -247,6 +247,7 @@
 | [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2261373841) |
 | [ppmtrue](https://github.com/alekseevpo) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2260836922)
 | [TownSquare](https://github.com/TownSquareXYZ) | Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717) |
+| [ElsbetTheOne](https://github.com/ElsbetTheOne) | Ton Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2332902723) |
 | [ChieftanM](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2332360138) |
 | [l00l00](https://github.com/l00l00) | TON WIKI | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2330211734)) |
 | [mbaneshi](https://github.com/baneshi) |  TON Wiki | [Issue]([https://github.com/ton-society/grants-and-bounties/issues/717](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2330728015)) |
