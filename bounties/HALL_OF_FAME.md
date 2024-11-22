@@ -223,6 +223,7 @@
 | [Airam](https://github.com/AiramGol) | Schemes Upgrade for TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/616) |
 | [Gusarich](https://github.com/Gusarich) | A series of improvements to Tact Language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/384) |
 | [ddiepri](https://github.com/ddiepri) | Translation of the documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2254094532) |
+| [DrzhknSrg](https://github.com/DrzhknSrg) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2265078723) |
 | [Tinmitlen](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2263773200) |
 | [DOUGSELLER](https://github.com/DOUGSELLER)| TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2261524449) |
 | [anurag asawa](https://github.com/anuragasawa20) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2262537107) |
@@ -235,3 +236,4 @@
 | [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
 | [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2391517579) |
 | [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
+
