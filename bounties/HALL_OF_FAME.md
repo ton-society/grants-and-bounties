@@ -267,6 +267,7 @@
 | [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2323285524) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.4.1 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/673) |
 | [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
+| [Vladislav Kibenko](https://github.com/heyqbnk), [Dmitry Nischeta](https://github.com/dnischeta) | CLI utility to initialize a Telegram Mini Apps application | [Issue](https://github.com/ton-society/grants-and-bounties/issues/460) |
 | [ChieftanM](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2394491141) |
 | [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2390737493) |
 | [Shon Ness](https://github.com/nessshon) | Tonutils - Python SDK for TON | [Issue](https://github.com/ton-society/grants-and-bounties/issues/773) |
