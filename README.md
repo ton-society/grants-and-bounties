@@ -41,12 +41,10 @@ There are 2 ways to participate in Bounties program:
 Learn more about the process on [Bounties Program Guidelines](bounties/BOUNTIES_PROGRAM_GUIDELINES.md) page.
 
 **❗️Note about Dev Tooling category**
-Development of smartcontracts that have hign demand and can be reused by numerous teams and developers are eligible for the Dev Tooling category. 
-
-
+Development of smartcontracts that have high demand and can be reused by numerous teams and developers are eligible for the Dev Tooling category. 
 
 ### Hall of fame
 
-We truly appreciate our community contributors. As a token of our gratitude, bounties program contributors receive a spot in the [**Hall of Fame**](/bounties/HALL_OF_FAME.md) and an exclusive TON Footsteps SBT. 
+We truly appreciate our community contributors. As a token of our gratitude, bounty program contributors receive a spot in the [**Hall of Fame**](/bounties/HALL_OF_FAME.md) and an exclusive TON Footsteps SBT.
 
 There is a big history behind our bounties program. **TON Footsteps** title for the honorable SBT is inherited from the historical name of our bounties program - TON Footsteps. We were used to  call those community contributions "Footsteps" as they are actually small steps on a big journey of our great TON Ecosystem. Don't miss your chance to become part of this history!
