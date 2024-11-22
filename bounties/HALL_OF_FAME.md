@@ -247,6 +247,7 @@
 | [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2261373841) |
 | [ppmtrue](https://github.com/alekseevpo) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2260836922)
 | [TownSquare](https://github.com/TownSquareXYZ) | Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717) |
+|  [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2326615193) |
 | [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2326067073) |
 | [VGRichi](https://github.com/VGRichi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2325910391)
 | [DrzhknSrg](https://github.com/DrzhknSrg) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2324687636) |
@@ -255,4 +256,3 @@
 | [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
 | [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2391517579) |
 | [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
-
