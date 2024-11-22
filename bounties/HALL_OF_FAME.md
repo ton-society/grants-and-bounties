@@ -265,6 +265,7 @@
 | [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2323285524) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.4.1 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/673) |
 | [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
+| [Shon Ness](https://github.com/nessshon) | Tonutils - Python SDK for TON | [Issue](https://github.com/ton-society/grants-and-bounties/issues/773) |
 | [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2389752947) |
 | [Wannadis](https://github.com/Wannadis666) | TON Wiki | [Strong](https://github.com/ton-society/grants-and-bounties/issues/431) |
 | [Tim](https://github.com/timcom-pro) | TON Wiki |  [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2387892940)
