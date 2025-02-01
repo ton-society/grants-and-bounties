@@ -279,3 +279,4 @@
 | [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2391517579) |
 | [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
 | [l00l00](https://github.com/l00l00) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2270625471) |
+| [l00l00](https://github.com/l00l00) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2629019530) |
