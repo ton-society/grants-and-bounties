@@ -279,4 +279,4 @@
 | [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2391517579) |
 | [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
 | [Andrey Pahomov](https://github.com/aap17) | Flutter UI and Dart TON HTTP Bridge huge update  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/862) |
-
+| [Frenchchocolatine](https://github.com/frenchchoco) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2692352883)
