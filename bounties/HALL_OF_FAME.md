@@ -252,6 +252,7 @@
 | [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2334614774) |
 | [AVMokan](https://github.com/AVMokan) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2333375606) |
 | [ElsbetTheOne](https://github.com/ElsbetTheOne) | Ton Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2332902723) |
+| [pizza-777](https://github.com/pizza-777) | Ton Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2698449187) |
 | [ChieftanM](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2332360138) |
 | [l00l00](https://github.com/l00l00) | TON WIKI | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2330211734)) |
 | [mbaneshi](https://github.com/baneshi) |  TON Wiki | [Issue]([https://github.com/ton-society/grants-and-bounties/issues/717](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2330728015)) |
