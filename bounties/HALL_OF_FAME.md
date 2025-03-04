@@ -4,6 +4,7 @@
 
 # Hall of Fame
 | Contributor | Bounty | Link to Issue |
+| :---------- | :----- | :------------ |
 | [Revuza](https://github.com/LevZed), [Gusarich](https://github.com/Gusarich)   | Examples: How to receive payments in a Telegram bot  | [Issue](https://github.com/ton-society/ton-footsteps/issues/8)     |
 | [Dan Volkov](https://github.com/dvlkv) | VS Code Extension for FunC | [Issue](https://github.com/ton-society/ton-footsteps/issues/18) |
 | [Oleg Baranov](https://github.com/xssnick) | Soulbound NFT's | [Issue](https://github.com/ton-society/ton-footsteps/issues/23) |
@@ -172,7 +173,8 @@
 | [Yumik](https://github.com/yumik229) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090238811) |
 | [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041233527),  [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090344793), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-1985520427) |
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2094746150) |
-| [Frenchchocolatine](https://github.com/frenchchoco) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2035312693), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090434901) | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2204241796) | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2327409250)
+| [Frenchchocolatine](https://github.com/frenchchoco) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2035312693), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090434901), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2392194823) |
+| [Frenchchocolatine](https://github.com/frenchchoco) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2035312693), [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2090434901) | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2265762103)
 | [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041150045) |
 | [gregori](https://github.com/gregoricordova) | TON wiki |  [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041122532) |
 | [DrzhknSrg](https://github.com/DrzhknSrg) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2035260604) |
@@ -180,6 +182,11 @@
 | [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2033059321) |
 | [Ilya Smirnov](https://github.com/mainsmirnov) | UI Components Library for Telegram Mini Apps | [Issue](https://github.com/ton-society/grants-and-bounties/issues/364) |
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256) 
+| [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598) |
+| [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2143842056) |
+| [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2209262059) |
+| [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2267329702) |
+| [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2326112847) |
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2094746150) |
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256)
 | [ElsbetTheOne](https://github.com/ElsbetTheOne) | Ton Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2151156308)
@@ -223,16 +230,55 @@
 | [Airam](https://github.com/AiramGol) | Schemes Upgrade for TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/616) |
 | [Gusarich](https://github.com/Gusarich) | A series of improvements to Tact Language | [Issue](https://github.com/ton-society/grants-and-bounties/issues/384) |
 | [ddiepri](https://github.com/ddiepri) | Translation of the documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2254094532) |
+| [Bollus007](https://github.com/Bollus007) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2271523565) |
+| [ElsbetTheOne](https://github.com/ElsbetTheOne) | Ton Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2270176962) |
+| [Little Bear](https://github.com/Littl-Bear) | TON WIKI | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2270054790) |
+| [AVMokan](https://github.com/AVMokan) | TON wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2269885529)) |
+| [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2269650635) |
+| [ddiepri](https://github.com/ddiepri) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2269250544) |
+| [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2269232534) |
+| [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2268995680) |
+| [Mostafa](https://github.com/cryptoblarabi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2267329702) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2265108288) |
+| [DrzhknSrg](https://github.com/DrzhknSrg) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2265078723) |
+| [Tinmitlen](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2263773200) |
+| [DOUGSELLER](https://github.com/DOUGSELLER)| TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2261524449) |
 | [anurag asawa](https://github.com/anuragasawa20) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2262537107) |
 | [VGRichi](https://github.com/VGRichi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2262173768) |
 | [Josikie](https://github.com/josikie) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2261698370)|
 | [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2261373841) |
 | [ppmtrue](https://github.com/alekseevpo) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2260836922)
 | [TownSquare](https://github.com/TownSquareXYZ) | Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717) |
+| [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2334614774) |
+| [AVMokan](https://github.com/AVMokan) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2333375606) |
+| [ElsbetTheOne](https://github.com/ElsbetTheOne) | Ton Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2332902723) |
+| [ChieftanM](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2332360138) |
+| [l00l00](https://github.com/l00l00) | TON WIKI | [Issue](https://github.com/ton-society/grants-and-bounties/issues/717](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2330211734)) |
+| [mbaneshi](https://github.com/baneshi) |  TON Wiki | [Issue]([https://github.com/ton-society/grants-and-bounties/issues/717](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2330728015)) |
+| [Tim](https://github.com/timcom-pro) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2331138309)
+| [Eugene Trifonov](https://github.com/expectfun) | Transcribe and Analyze the Podcast Episode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/402) |
+| [SavaTufan](https://github.com/SavaTufan) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2329038892) |
+| [Superindus](https://github.com/Superindus) |Multilingual Localization Collaboration System for TON Docs | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2327631184) |
+| [ddiepri](https://github.com/ddiepri) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2327498118) |
+| [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2326615193) |
+| [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2326067073) |
+| [VGRichi](https://github.com/VGRichi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2325910391)
+| [DrzhknSrg](https://github.com/DrzhknSrg) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2324687636) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2323285524) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.4.1 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/673) |
 | [fmira21](https://github.com/fmira21) | Docker Images for TON Nodes with Mytonctrl | [Issue](https://github.com/ton-society/grants-and-bounties/issues/414) |
+| [Vladislav Kibenko](https://github.com/heyqbnk), [Dmitry Nischeta](https://github.com/dnischeta) | CLI utility to initialize a Telegram Mini Apps application | [Issue](https://github.com/ton-society/grants-and-bounties/issues/460) |
+| [ChieftanM](https://github.com/Tinmitlen) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2394491141) |
+| [VenedaOlya](https://github.com/VenedaOlya) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2390737493) |
+| [Shon Ness](https://github.com/nessshon) | Tonutils - Python SDK for TON | [Issue](https://github.com/ton-society/grants-and-bounties/issues/773) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2389752947) |
+| [Wannadis](https://github.com/Wannadis666) | TON Wiki | [Strong](https://github.com/ton-society/grants-and-bounties/issues/431) |
+| [Tim](https://github.com/timcom-pro) | TON Wiki |  [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2387892940)
+| [VGRichi](https://github.com/VGRichi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2387869160)
+| [DrzhknSrg](https://github.com/DrzhknSrg) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2386688930) |
 | [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2391517579) |
 | [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
+| [Andrey Pahomov](https://github.com/aap17) | Flutter UI and Dart TON HTTP Bridge huge update  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/862) |
 | [anurag asawa](https://github.com/anuragasawa20) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2696175048) |
 
 

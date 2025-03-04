@@ -6,13 +6,13 @@
 
 TON Grants Program is aimed at providing initial support for ambitious teams to kick off product development or migrate a successful existing product to TON from another blockchain.
 
-*Currently, our grant focus is on DeFi projects within the TON ecosystem. We’re supporting developers building innovative DeFi solutions like decentralized exchanges, lending protocols, and yield farming platforms. This grant offers funding and resources to accelerate growth and adoption. If your project advances decentralized finance, this is your chance to gain support and make an impact. Click [here for more details](https://www.notion.so/1115274bd2cf80f0b639f84f3914356a?pvs=21)* 
+*Currently, our grant focus is on DeFi projects within TON ecosystem. We’re supporting developers building innovative DeFi solutions like decentralized exchanges, lending protocols, and yield farming platforms. This grant offers funding and resources to accelerate growth and adoption. If your project advances decentralized finance, this is your chance to gain support and make an impact. Click [here for more details](https://www.notion.so/1115274bd2cf80f0b639f84f3914356a?pvs=21)* 
 
-Apart from that, we always welcome initiatives that help enhance the TON overall infrastructure &  facilitate the deployment of and interaction across DApps and Telegram Mini Apps, bring a unique value to the ecosystem and attract users and financial value from outside of TON.
+Apart from that, we always welcome initiatives that help enhance TON overall infrastructure &  facilitate the deployment of and interaction across DApps and Telegram Mini Apps, bring a unique value to the ecosystem and attract users and financial value from outside of TON.
 
 It is important to note that we do not support products that do not have an MVP or fail to show the unique value proposition and are identical to the ones that already exist on TON. Instead, we focus on novel innovative business cases, even if within the same product vertical, but that promise to disrupt the landscape and have a clear marketing strategy to deliver that.
 
-Applicants are thus invited to carefully study the [TON Ecosystem map](https://github.com/ton-society/ecosytem-map) as the first obligatory step in the application process.
+Applicants are thus invited to carefully study [TON Ecosystem map](https://github.com/ton-society/ecosytem-map) as the first obligatory step in the application process.
 
 # Grant Categories
 
@@ -51,7 +51,7 @@ While TON boasts strong and successful DeFi protocols, DApps and Telegram Mini A
     References: [https://uniswap.org/,](https://uniswap.org/) [https://pancakeswap.finance/,](https://pancakeswap.finance/) [https://traderjoexyz.com/](https://traderjoexyz.com/avalanche)
     
 
-1. **New DeFi Primitives on TON.** This broad category invites team to explore new financial instruments, decentralized protocols, or smart contract solutions that enhance the TON ecosystem's functionality, scalability, and sharding. It is recommended to thoroughly study TON’s architecture and propose something new and unique. 
+1. **New DeFi Primitives on TON.** This broad category invites team to explore new financial instruments, decentralized protocols, or smart contract solutions that enhance TON ecosystem's functionality, scalability, and sharding. It is recommended to thoroughly study TON’s architecture and propose something new and unique. 
 
 ---
 
@@ -63,7 +63,7 @@ Teams applying to this category are encouraged to experiment with:
 
 1. Leveraging existing Telegram features (e.g., channels, boosts, giveaways, gated chats/content, stories, reactions) and enhancing them by integrating Web3 elements.
 2. Combining the functionality of Telegram with other social platforms like TikTok, Instagram, Twitch, YouTube, etc.
-3. Introducing new communication methods within Telegram using the TON blockchain.
+3. Introducing new communication methods within Telegram using TON Blockchain.
 4. Implementing sharing and referral mechanics to drive engagement.
 5. Focusing on group mechanics (competitions, squads, challenges) to onboard and engage entire communities rather than individual users.
 
@@ -89,7 +89,7 @@ This category is dedicated to Web3 games that emphasize easy onboarding, viral s
 
 ## 4. Developer Education
 
-This grant category supports educational initiatives that train developers to build on the TON blockchain. We prioritize courses that are both informative and engaging, using languages like Tact and FunC. Additionally, courses that cover Mini Apps and social mechanics will be considered to help expand developer expertise and application possibilities on TON.
+This grant category supports educational initiatives that train developers to build on TON Blockchain. We prioritize courses that are both informative and engaging, using languages like Tact and FunC. Additionally, courses that cover Mini Apps and social mechanics will be considered to help expand developer expertise and application possibilities on TON.
 
 **Requirements**:
 
@@ -105,16 +105,16 @@ This grant category supports educational initiatives that train developers to bu
 
 ## 5. Other
 
-This category encompasses a wide range of projects, including open-source technical projects and commercial initiatives that enhance the TON infrastructure. This can include solutions that improve deployment, interaction across DApps, and Telegram Mini Apps, as well as projects in other verticals such as infrastructure, trading bots, NFT tooling, AI, etc.
+This category encompasses a wide range of projects, including open-source technical projects and commercial initiatives that enhance TON infrastructure. This can include solutions that improve deployment, interaction across DApps, and Telegram Mini Apps, as well as projects in other verticals such as infrastructure, trading bots, NFT tooling, AI, etc.
 
-> Applicants are strongly encouraged to conduct thorough research on the current TON infrastructural and business landscape before submitting a proposal. Solutions must be technically feasible and offer a unique value proposition that significantly enhances the TON ecosystem.
+> Applicants are strongly encouraged to conduct thorough research on the current TON infrastructural and business landscape before submitting a proposal. Solutions must be technically feasible and offer a unique value proposition that significantly enhances TON ecosystem.
 > 
 
 **Funding**: Up to **$20K in TON**.
 
 ---
 
-🚫**Note**: The program does not fund simple integrations of TON into existing solutions (e.g., wallets, portfolio trackers, DEXs, or NFT marketplaces). It prioritizes projects that provide unique value specifically for the TON ecosystem.
+🚫**Note**: The program does not fund simple integrations of TON into existing solutions (e.g., wallets, portfolio trackers, DEXs, or NFT marketplaces). It prioritizes projects that provide unique value specifically for TON ecosystem.
 
 ---
 
@@ -132,7 +132,7 @@ This category encompasses a wide range of projects, including open-source techni
 
 For more information please explore [How to apply for a TON grant page](https://www.notion.so/1145274bd2cf8015acddd0b7e8662ac5?pvs=21)
 
-Note - We do not provide support for marketing the projects. Funds are deployed to assist development of the project only. Please do not add that to funding request. We however do provide support to market your project in the TON ecosystem along with various other support mechanisms for founders. 
+Note - We do not provide support for marketing the projects. Funds are deployed to assist development of the project only. Please do not add that to funding request. We however do provide support to market your project in TON Ecosystem along with various other support mechanisms for founders. 
 
 Please explore the [Founder support doc](https://www.notion.so/Welcome-to-TON-founder-ca6c2e3607fe4170a9fe984397e7bf5c?pvs=21) to understand more
 
@@ -176,7 +176,7 @@ A grant may be **cancelled or terminated** under the following conditions:
 5. **Lack of Progress**: Consistent failure to meet key milestones or show progress without valid reasons may lead to termination. Regular progress reports are essential for assessment.
 6. **Inaccurate Application Information**: Providing false or misleading information during the application process or throughout the project will result in grant revocation. Transparency is critical.
 7. **Legal or Ethical Violations**: Any legal or ethical breach, including intellectual property violations or other unlawful actions, will result in grant termination.
-8. **Voluntary Withdrawal**: If a team discontinues the project, they must notify the TON Foundation, and the grant agreement will be terminated.
+8. **Voluntary Withdrawal**: If a team discontinues the project, they must notify TON Foundation, and the grant agreement will be terminated.
 
 ---
 
