@@ -143,6 +143,7 @@
 | [Alireza Tabatabaeian](https://github.com/alirezatabatabaeian) | Enhance Tact Fireworks Demo Contract Test Suite | [Issue](https://github.com/ton-society/grants-and-bounties/issues/406) |
 | [stenolog](https://github.com/stenolog) | Documentation for main TON repo | [Issue](https://github.com/ton-society/grants-and-bounties/issues/266) |
 | [krau5](https://github.com/krau5) | Update TVM Instruction in the TON Documentation | [Issue](https://github.com/ton-society/grants-and-bounties/issues/501) |
+| [liketurbo](https://github.com/liketurbo) | TonAPI SDK for Rust | [Issue](https://github.com/ton-society/grants-and-bounties/issues/370) |
 | [DmitryA](https://github.com/memearchivarius) | Update TON Documentation in connection with Commission Fee Changes | [Issue](https://github.com/ton-society/grants-and-bounties/issues/572) |
 | [OlesiaBil](https://github.com/OlesiaBil) | TON Wiki| [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2094436260)
 | [Stanislav](https://github.com/aniramlove) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2041439256) |
@@ -198,7 +199,7 @@
 | [Sibirli](https://github.com/Sibirli) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2147319068)
 | [OlesiaBil](https://github.com/OlesiaBil) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2146972757) |
 | [Ruusik](https://github.com/rudmish) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2146628738)
-| [VGRichii] (https://github.com/VGRichi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2145620371)
+| [VGRichii](https://github.com/VGRichi) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2145620371)
 | [Alexto-IP](https://github.com/Alexto-IP) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2145400793) |
 | [Yumik](https://github.com/yumik229) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2145338270) |
 | [Logvik](https://github.com/logvik) | Support Tact v1.3.0 for tact-vscode | [Issue](https://github.com/ton-society/grants-and-bounties/issues/598))
@@ -279,4 +280,5 @@
 | [Anesthesia-v](https://github.com/anesthesia-v) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2391517579) |
 | [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
 | [Andrey Pahomov](https://github.com/aap17) | Flutter UI and Dart TON HTTP Bridge huge update  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/862) |
+| [Shon Ness](https://github.com/nessshon) | Implementation of cNFT on the TON blockchain | [Issue](https://github.com/ton-society/grants-and-bounties/issues/437) |
 | [Novus Nota](https://github.com/novusnota) | Packaging of existing Tact and FunC language servers | [Issue](https://github.com/ton-society/grants-and-bounties/issues/352) |
