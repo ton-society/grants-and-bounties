@@ -6,13 +6,13 @@
 
 TON Grants Program is aimed at providing initial support for ambitious teams to kick off product development or migrate a successful existing product to TON from another blockchain.
 
-*Currently, our grant focus is on DeFi projects within TON ecosystem. We’re supporting developers building innovative DeFi solutions like decentralized exchanges, lending protocols, and yield farming platforms. This grant offers funding and resources to accelerate growth and adoption. If your project advances decentralized finance, this is your chance to gain support and make an impact. Click [here for more details](https://www.notion.so/1115274bd2cf80f0b639f84f3914356a?pvs=21)* 
+*Currently, our grant focus is on DeFi projects within the TON ecosystem. We’re supporting developers building innovative DeFi solutions like decentralized exchanges, lending protocols, and yield farming platforms. This grant offers funding and resources to accelerate growth and adoption. If your project advances decentralized finance, this is your chance to gain support and make an impact. Click [here for more details](https://www.notion.so/1115274bd2cf80f0b639f84f3914356a?pvs=21)* 
 
-Apart from that, we always welcome initiatives that help enhance TON overall infrastructure &  facilitate the deployment of and interaction across DApps and Telegram Mini Apps, bring a unique value to the ecosystem and attract users and financial value from outside of TON.
+Apart from that, we always welcome initiatives that help enhance TON overall infrastructure &  facilitate the deployment of and interaction across DApps and Telegram Mini Apps, bring unique value to the ecosystem and attract users and financial value from outside of TON.
 
 It is important to note that we do not support products that do not have an MVP or fail to show the unique value proposition and are identical to the ones that already exist on TON. Instead, we focus on novel innovative business cases, even if within the same product vertical, but that promise to disrupt the landscape and have a clear marketing strategy to deliver that.
 
-Applicants are thus invited to carefully study [TON Ecosystem map](https://github.com/ton-society/ecosytem-map) as the first obligatory step in the application process.
+Applicants are thus invited to carefully study [TON Ecosystem map](https://github.com/ton-society/ecosystem-map) as the first obligatory step in the application process.
 
 # Grant Categories
 
@@ -21,7 +21,7 @@ Applicants are thus invited to carefully study [TON Ecosystem map](https://gith
 While TON boasts strong and successful DeFi protocols, DApps and Telegram Mini Apps, there is always space for new innovative solutions in the ecosystem.
 
 - traction on another chain (TVL > $10M / Monthly Trading Volume > $50M - whichever is more relevant to your protocol) and/or deep proven experience in DeFi
-- **Funding:** Up to **520k**
+- **Funding:** Up to **$520K**
     - **up to $300k in grant support**
     - **up to $200K in user rewards**
     - **up to $20K in Telegram ads**
@@ -33,25 +33,25 @@ While TON boasts strong and successful DeFi protocols, DApps and Telegram Mini A
 
 1. **Collateralized Debt Position (CDP) / Synthetic Assets.** Teams are welcome to explore innovative mechanisms for over/partial collateralization, soft liquidation, and stability in the form of tools, services, or entire CDP platforms. 
     
-    References: [https://makerdao.com/,](https://makerdao.com/) [https://crvusd.curve.fi/,](https://crvusd.curve.fi/) [https://www.liquity.org/,](https://www.liquity.org/) https://youves.com/. 
+    References: [MakerDAO](https://makerdao.com/), [Curve USD](https://crvusd.curve.fi/), [Liquity](https://www.liquity.org/), [Youves](https://youves.com/)
     
 
-1. **Yield Farming.** This category entails creating innovative farming strategies, boosting liquidity pools, or developing separate tools that automate and optimize yield generation. The use of auto-compounding and multi-asset farming is welcome. 
+1. **Yield Farming.** This category entails creating innovative farming strategies, boosting liquidity pools, or developing separate tools that automate and optimize yield generation. Auto-compounding and multi-asset farming approaches are encouraged. 
     
-    References: [https://beefy.com/,](https://beefy.com/) [https://app-v2.acryptos.com/,](https://app-v2.acryptos.com/) https://app.kamino.finance/
+    References: [Beefy](https://beefy.com/), [ACryptoS](https://app-v2.acryptos.com/), [Kamino Finance](https://app.kamino.finance/)
     
 
 1. **Algorithmic Stablecoins.** Teams are invited to explore new stabilization mechanisms, peg maintenance strategies, and governance models to ensure resilience against volatility. 
     
-    References: [https://frax.finance/,](https://frax.finance/) https://overnight.fi/
+    References: [Frax Finance](https://frax.finance/), [Overnight.fi](https://overnight.fi/)
     
 
 1. **Concentrated Liquidity Market Maker.** Builders can focus on developing advanced market-making algorithms, optimizing liquidity pools, or creating tools that allow users to maximize returns while minimizing capital exposure. Please consider that Uni V3 Implementation wouldn’t work on TON because it is impossible to implement CLMM architecture with Ticks.
     
-    References: [https://uniswap.org/,](https://uniswap.org/) [https://pancakeswap.finance/,](https://pancakeswap.finance/) [https://traderjoexyz.com/](https://traderjoexyz.com/avalanche)
+    References: [Uniswap](https://uniswap.org/), [PancakeSwap](https://pancakeswap.finance/), [Trader Joe](https://traderjoexyz.com/avalanche)
     
 
-1. **New DeFi Primitives on TON.** This broad category invites team to explore new financial instruments, decentralized protocols, or smart contract solutions that enhance TON ecosystem's functionality, scalability, and sharding. It is recommended to thoroughly study TON’s architecture and propose something new and unique. 
+1. **New DeFi Primitives on TON.** This broad category invites teams to explore new financial instruments, decentralized protocols, or smart contract solutions that enhance TON ecosystem's functionality, scalability, and sharding. It is recommended to thoroughly study TON’s architecture and propose something new and unique. 
 
 ---
 
@@ -70,7 +70,10 @@ Teams applying to this category are encouraged to experiment with:
 > **Inspiration** from Open League **Summer Hackathon finalists**:
 > 
 
-**Examples include**: [t.me/boosteambot](http://t.me/boosteambot) **|** [t.me/overleap_bot](http://t.me/overleap_bot) **|** [t.me/tontch_bot](http://t.me/tontch_bot) **|** [t.me/inone_me_bot](http://t.me/inone_me_bot)
+**Examples include**:
+- [BoosteamBot](http://t.me/boosteambot) - Marketplace for Premium users to monetize their boost capacity
+- [Overleap](http://t.me/overleap_bot) - Send messages with near 100% open rate by adding incentives for readers
+- [InOne](http://t.me/inone_me_bot) - Streamlined booking management system that increases revenue through Telegram automation
 
 **Funding**: Up to **$50K in TON**.
 
@@ -121,14 +124,14 @@ This category encompasses a wide range of projects, including open-source techni
 # **Generally, your proposal will have better chances to be accepted if:**
 
 - It presents a **clear description** of the problem and your solution to it, and the proposed concept is well-researched and tested by the team. Priority will be given to projects that are able to demonstrate some early user traction (commercial use cases) or at least some technical work conducted (infrastructural cases).
-- Your team has **proven business experience** in the respective field as well as the technical knowledge of relevant languages and technologies. Please note that we prioritise backing established teams with a proven track record of working together, and not solo developers. When describing your team, focus on the relevant **achievements and numbers**, showcasing the commercial traction that your previous products have.
+- Your team has **proven business experience** in the respective field as well as the technical knowledge of relevant languages and technologies. Please note that we prioritize backing established teams with a proven track record of working together, and not solo developers. When describing your team, focus on the relevant **achievements and numbers**, showcasing the commercial traction that your previous products have.
 - There is an early **MVP or prototype** for the Grant team to assess.
 - You effectively explain your **user acquisition plan**. Applications without a clear go-to-market strategy will NOT be considered.
 - The application includes enough details on the **functionality** of your DApp / tool.
 - You break down your project into **specific milestones** with reasonable timelines and expected outcomes and deliverables for each phase. Note that we do NOT provide grants for research, so please make sure not to include research activities among your milestones.
 - A detailed and **reasonable budget** breakdown is provided. Justify each expense and ensure it aligns with industry standards - otherwise the proposal will be rejected. Please note that the requested budget in your proposal must not exceed $50K (except for the DeFi category).
 - You can demonstrate that the project will be **maintained** after the completion of the grant, be it through additional funding sources or an existing business model.
-- You can clearly present how your project **stands out among competitors** and implements the technology that doesn't exist in the ecosystem yet. Thoroughly think about your unique value proposition for the users of TON and explain how your solution is better than any product that exists either on TON or on other chains (please feel free to mention specific projects). We highlight again that a necessary step before submitting your application is to explore the [TON Ecosystem Map.](https://github.com/ton-society/ecosytem-map) We are happy to support multiple solutions in the same product vertical, but your differentiation must be clear.
+- You can clearly present how your project **stands out among competitors** and implements the technology that doesn't exist in the ecosystem yet. Thoroughly think about your unique value proposition for the users of TON and explain how your solution is better than any product that exists either on TON or on other chains (please feel free to mention specific projects). We highlight again that a necessary step before submitting your application is to explore the [TON Ecosystem Map.](https://github.com/ton-society/ecosystem-map) We are happy to support multiple solutions in the same product vertical, but your differentiation must be clear.
 
 For more information please explore [How to apply for a TON grant page](https://www.notion.so/1145274bd2cf8015acddd0b7e8662ac5?pvs=21)
 
