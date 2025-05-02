@@ -20,7 +20,7 @@ The TON Grants Program is dedicated to supporting teams and projects that build 
 
 ### Applying for a Grant:
 
-An overview of existing TON projects can be found in the [TON Ecosystem Map](https://github.com/ton-society/ecosytem-map). You might be also interested to get more details on the current [areas of interest](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests) - the list of categories and examples of projects we are more likely to support through the program herein.
+An overview of existing TON projects can be found in the [TON Ecosystem Map](https://github.com/ton-society/ecosystem-map). You might be also interested to get more details on the current [areas of interest](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md#areas-of-interests) - the list of categories and examples of projects we are more likely to support through the program herein.
 
 On our [**Questbook page**](https://questbook.app/dashboard/?grantId=65c7836df27e2e1702d2d279&chainId=10), you'll find both a comprehensive list of submitted grant proposals and a form to [**submit your own application**](https://questbook.app/proposal_form/?newTab=true&grantId=65c7836df27e2e1702d2d279&chainId=10). Please review the [**Grants Program Guidelines**](https://github.com/ton-society/grants-and-bounties/blob/main/grants/GRANT_PROGRAM_GUIDELINES.md) before submitting your proposal.
 
