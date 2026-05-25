@@ -281,3 +281,4 @@
 | [Vladimir Lebedev](https://github.com/hacker-volodya) | Machine-readable TVM Instructions Specification | [Issue](https://github.com/ton-society/grants-and-bounties/issues/395) |
 | [Andrey Pahomov](https://github.com/aap17) | Flutter UI and Dart TON HTTP Bridge huge update  | [Issue](https://github.com/ton-society/grants-and-bounties/issues/862) |
 | [Shon Ness](https://github.com/nessshon) | Implementation of cNFT on the TON blockchain | [Issue](https://github.com/ton-society/grants-and-bounties/issues/437) |
+| [GButrik](https://github.com/GButrik) | TON Wiki | [Issue](https://github.com/ton-society/grants-and-bounties/issues/431#issuecomment-2752043895) |
